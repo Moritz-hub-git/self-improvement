@@ -540,4 +540,76 @@ Der flache Seitenklassiker bleibt die Richtung — mit einer Korrektur aus dem e
 
 ---
 
-*Status: Frisur FINAL entschieden — Referenz = eigenes Business-Portrait (Abschnitt 14). Termin buchen, Portrait-Foto mitnehmen. Übergangsphase: aktuelle Länge ist nah dran; erster Schnitt bringt Struktur. Danach im Plan: Bart-Entscheidung, Schlaf-Setup, Foto-Technik.*
+## 15. Schnitt-Anatomie: Wie das Portrait-Haar konstruiert ist — und warum
+
+> Das Foto zeigt das Ergebnis; hier steht die Konstruktion dahinter, Zone für Zone. Damit kann jeder Friseur den Schnitt nachbauen — und du verstehst, was er tut und warum.
+
+### Zone für Zone
+
+| Zone | Wie geschnitten | Warum genau so |
+|---|---|---|
+| **Nacken & Seiten unten** | Maschine ~9–12 mm, nach oben allmählich länger | Rahmt das Gesicht, deckt helle Kopfhaut, kaschiert den Ohransatz; wächst 5–6 Wochen unsichtbar raus. Kein Skin Fade: zu viel Kontrast für helle Haut + Business |
+| **Übergangszone** (seitlich auf Höhe der „Hutkrempe") | Schere über Kamm, verläuft von ~12 mm auf 2–3 cm | Die unsichtbare Verbindung zwischen kurz und lang — genau hier entsteht der „weiche" Eindruck; eine sichtbare Kante würde nach Helm aussehen |
+| **Deckhaar** | vorne 4–5 cm, zur Mitte 3,5–4,5, am Wirbel 3–4 cm — vorne am längsten, nach hinten abfallend | Die Front braucht Länge für den weichen Seitfall mit Mini-Stand; der kürzere Hinterkopf verhindert Fluff und das „Hängen" — das ist die Längen-Asymmetrie, die eine echte Frisur von geschobenem Haar unterscheidet |
+| **Scheitelzone** | weicher natürlicher Scheitel auf der natürlichen Seite; **Gegenseite kürzer gestuft**, läuft in den Übergang | Der Anker der Richtung; die gestufte Gegenseite ist der Fix für das jahrelange „die andere Seite hängt" |
+| **Textur** | Point Cutting (Schere schräg in die letzten ~1 cm der Spitzen); **Effilierschere nur sparsam** | Spitzen trennen sich weich in Partien und halten die Richtung ohne Produkt. Sparsam effilieren, weil feines Haar sonst dünn und fusselig wird |
+| **Front-/Stirnkante** | weich-fransig, nicht auf einer Linie | Natürlich statt Helm; die Kante darf leicht unregelmäßig ins Gesicht auslaufen |
+| **Konturen** | Ohren sauber freigeschnitten, Nackenlinie **natürlich auslaufend** (kein harter Block), mit Maschine statt Messer | Saubere Konturen = 80 % des „gepflegt"-Signals; natürlicher Nacken wächst unsichtbar raus; Maschine statt Messer wegen empfindlicher Haut |
+
+### Version B: „ein bisschen mehr Frisur"
+
+Gleiche Konstruktion, nur **vorne 5–6 cm** statt 4–5 → sichtbarerer Seitschwung, etwas mehr Präsenz. Trade-off: näher an der Hänge-Grenze (~5 cm+) und etwas mehr Föhn-Pflicht. **Empfohlener Weg: Version A (Portrait, beweisbar gut) schneiden lassen und einfach 2–3 Wochen wachsen lassen — dann bist du automatisch in Version B und entscheidest am eigenen Kopf, welche Länge gewinnt.** Null Risiko, maximale Info.
+
+### Das komplette inhaltliche Barber-Briefing (so sagst du es)
+
+1. **Foto zeigen:** „So soll es aussehen — das bin ich auf dem Bild."
+2. **Konstruktion:** „Seiten und Nacken kurz mit weichem Übergang, unten neun bis zwölf Millimeter, bitte kein Skin Fade. Oben vorne vier bis fünf Zentimeter, zum Hinterkopf etwas kürzer. Leichte Stufung und Textur in die Spitzen — Point Cutting, bitte kaum Effilierschere, mein Haar ist fein. Weicher natürlicher Scheitel, die Gegenseite bitte kürzer stufen, damit da nichts runterhängt."
+3. **Problem benennen:** „Bisher lag mein Deckhaar überall gleich lang und platt — und wenn ich es zur Seite lege, hängt die andere Seite. Das soll der Schnitt lösen."
+4. **Alltag:** „Ich style morgens maximal zwei Minuten, meistens nur föhnen, fast kein Produkt."
+5. **Abschluss:** „Konturen sauber, Nacken natürlich auslaufen lassen, mit der Maschine statt Messer — empfindliche Haut."
+
+### Gemini-Prompts zu beiden Versionen
+
+**Version A (Portrait-exakt):**
+
+```
+Bearbeite mein hochgeladenes Foto. Ändere NUR die Frisur. Das Gesicht muss zu
+100 % identisch mit dem Original bleiben: keine Beauty-Retusche, Hautstruktur,
+Bart, Ohren, Ausdruck, Beleuchtung, Hintergrund und Perspektive unverändert.
+Mein Haar: glatt, fein, dicht, hellbraun — keine Locken, keine Wellen, keine
+andere Farbe, Haaransatz unverändert.
+
+Neue Frisur: Gepflegter klassischer Herrenschnitt wie für ein professionelles
+Business-Portrait. Seiten und Nacken kurz mit weichem Übergang (unten ca.
+10 mm, keine sichtbare Kopfhaut), saubere Konturen. Deckhaar vorne 4–5 cm,
+zum Hinterkopf leicht kürzer, mit weicher Textur in den Spitzen. Die Front
+fällt weich zur Seite mit einem minimalen Hauch Stand am Ansatz, weiche
+fransige Stirnkante. Halbmattes natürliches Finish, überwiegend geschlossene
+Oberfläche. KEINE hohe Tolle, KEINE definierten Strähnen, KEIN Glanz.
+
+Fotorealistisch, gleiche Qualität wie das Original. Erstelle 2 Varianten.
+```
+
+**Version B (mehr Frisur):**
+
+```
+Bearbeite mein hochgeladenes Foto. Ändere NUR die Frisur. Das Gesicht muss zu
+100 % identisch mit dem Original bleiben: keine Beauty-Retusche, Hautstruktur,
+Bart, Ohren, Ausdruck, Beleuchtung, Hintergrund und Perspektive unverändert.
+Mein Haar: glatt, fein, dicht, hellbraun — keine Locken, keine Wellen, keine
+andere Farbe, Haaransatz unverändert.
+
+Neue Frisur: Klassischer seitlich getragener Herrenschnitt mit etwas mehr Form.
+Seiten und Nacken kurz mit weichem Übergang (unten ca. 10 mm, keine sichtbare
+Kopfhaut). Deckhaar vorne 5–6 cm, weich und mit dezentem Schwung zur Seite
+gelegt, minimaler Stand am Ansatz, zum Hinterkopf kürzer gestuft; auf der
+anderen Seite des Scheitels kürzer, dort hängt nichts. Weiche fransige
+Stirnkante. Halbmattes natürliches Finish, geschlossene weiche Oberfläche.
+KEINE hohe Tolle, KEINE definierten Strähnen, KEIN Glanz.
+
+Fotorealistisch, gleiche Qualität wie das Original. Erstelle 2 Varianten.
+```
+
+---
+
+*Status: Frisur final = Portrait-Blaupause (Version A), Aufwuchs-Option auf Version B eingeplant. Briefing in Abschnitt 15 ist vollständig — Termin buchen. Danach im Plan: Bart-Entscheidung, Schlaf-Setup, Foto-Technik.*
