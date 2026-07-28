@@ -199,4 +199,66 @@ Produkte: Sea-Salt-Spray + mattes Clay/Paste (~15–20 € zusammen, Drogerie re
 
 ---
 
-*Nächster Schritt: Termin diese Woche. 2 Referenzfotos aus den Galerien oben aussuchen (Kriterien beachten) + angepasste Ansage aus Abschnitt 8.*
+## 9. KI-Anprobe mit Gemini: die Prompts
+
+### Spielregeln (wichtig für brauchbare Ergebnisse)
+
+1. **Foto:** das frontale Tageslicht-Selfie verwenden (Haare trocken und komplett sichtbar) — nicht die Nahaufnahmen im Kunstlicht. Für die Seitenansicht optional ein Profilfoto bei Tageslicht machen.
+2. **Ein Style pro Anfrage.** Für den nächsten Style wieder mit dem **Originalfoto** starten — nie das bearbeitete Bild weiterbearbeiten (sonst driftet das Gesicht mit jeder Runde weiter vom Original weg).
+3. **2 Varianten** erzeugen lassen und nachsteuern („weniger Volumen", „Seiten einen Tick länger").
+4. **Realitäts-Check:** KI schmeichelt und verändert Gesichter minimal — bewerte nur die Frisurform, nicht dein Gesicht. Das Lieblingsergebnis zusammen mit einem echten Galeriefoto zum Friseur mitnehmen; der Friseur erkennt, was davon real machbar ist.
+
+### Basis-Prompt (deutsch, [FRISUR] austauschen)
+
+```
+Bearbeite das hochgeladene Foto. Ändere AUSSCHLIESSLICH die Frisur — alles andere
+bleibt exakt unverändert: Gesicht, Gesichtszüge, Hautton, Bartstoppeln, Ohren,
+Gesichtsausdruck, Beleuchtung, Hintergrund, Bildausschnitt und Kameraperspektive.
+
+Regeln für die Frisur:
+- Behalte meine echte Haarbeschaffenheit: glattes, dichtes, hellbraunes Haar.
+  Keine Locken, keine Wellen, keine andere Haarfarbe, Haaransatz wie im Original.
+- Das Ergebnis muss ein realistischer Herrenhaarschnitt sein, den ein Friseur mit
+  genau diesem Haar schneiden kann — kein Werbe-/Model-Look, kein unrealistisches
+  Volumen.
+- Finish: matt, wie mit wenig Styling-Clay gestylt, einzelne sichtbare Strähnen,
+  kein Glanz, kein Wet-Look.
+- Fotorealistisch, gleiche Qualität und Schärfe wie das Original.
+
+Neue Frisur: [FRISUR]
+
+Erstelle 2 Varianten.
+```
+
+### Die vier [FRISUR]-Module
+
+1. **Ivy League:** `Ivy League: Seiten und Nacken kurz mit weichem Übergang (unten ca. 6 mm, nach oben allmählich länger, keine rasierte Haut). Deckhaar 3–5 cm, ordentlich zur Seite gelegt, natürliches mattes Finish.`
+2. **Seitenscheitel:** `Moderner Seitenscheitel: Seiten und Nacken kurz mit weichem Übergang (keine rasierte Haut). Deckhaar 5–7 cm, weiche natürliche Scheitellinie auf der Seite, auf der mein Haar im Original fällt, locker zur Seite gelegt, matt.`
+3. **Seitliche Tolle ⭐:** `Lockere seitliche Tolle: Seiten und Nacken kurz mit weichem Übergang (unten ca. 6–9 mm, keine rasierte Haut). Deckhaar vorne 6–8 cm, nach oben und leicht zur Seite gestylt, moderates realistisches Volumen, in Strähnen fallend, matt.`
+4. **Zurückgekämmt:** `Locker nach hinten gestylt: Seiten und Nacken kurz mit weichem Übergang (keine rasierte Haut). Deckhaar 7–9 cm, komplett locker nach hinten gelegt, mattes Finish mit sichtbaren Strähnen, entspannt statt streng.`
+
+### Englische Version (falls Ergebnisse ungenau werden)
+
+```
+Edit the uploaded photo. Change ONLY the hairstyle — keep the face, facial
+features, skin tone, beard stubble, ears, expression, lighting, background,
+framing and camera angle exactly unchanged.
+
+Hair rules:
+- Keep my real hair type: straight, dense, light brown hair. No curls, no waves,
+  no color change, keep the original hairline.
+- The result must be a realistic barbershop haircut achievable with exactly this
+  hair — no editorial/model look, no unrealistic volume.
+- Matte finish, styled with a small amount of clay, visible individual strands,
+  no shine, no wet look. Photorealistic, same quality as the original.
+
+New hairstyle: [STYLE]
+
+Create 2 variants.
+```
+
+Module (EN): 1) `Ivy League cut: short tapered sides (no bare skin), top 3–5 cm neatly swept to the side, natural matte finish.` · 2) `Modern side part: short tapered sides, top 5–7 cm with a soft natural part on the side my hair falls in the original, matte.` · 3) `Loose side-swept quiff: short tapered sides (6–9 mm at the bottom), front 6–8 cm styled up and slightly to the side, moderate realistic volume, falling in strands, matte.` · 4) `Loose matte slick-back: short tapered sides, top 7–9 cm brushed back loosely, visible strands, relaxed not rigid.`
+
+---
+
+*Nächster Schritt: KI-Anprobe mit den Prompts oben → Lieblings-Style wählen → Termin mit Ansage aus Abschnitt 8 + 1 Galeriefoto + 1 KI-Bild.*
