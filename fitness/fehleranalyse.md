@@ -103,3 +103,38 @@ und gedeckeltem Wochenende keine messbare Veränderung eingetreten ist
 (Fotos, Umfänge, Kraftwerte), ist der nächste Schritt ein Blutbild
 (Testosteron, Schilddrüse, Vitamin D) beim Hausarzt — erst dann, nicht
 vorher, lohnt der Blick auf medizinische Ursachen.
+
+## Zwischenbefund (28.07.2026)
+
+Antworten aus dem Coaching-Gespräch:
+
+- **Test 1 (Waage):** Gewicht wurde nie getrackt; subjektiv "schon
+  zugenommen, nicht unbegrenzt". Kein belastbarer Datenpunkt. Beide
+  Lesarten führen zum selben Schluss: War der Zuwachs klein (1–3 kg in
+  18 Monaten), lag die Ernährung nahe Erhaltung — Hebel 1 halb kaputt.
+  War er größer (5+ kg) und trotzdem kaum Muskel sichtbar, war Energie
+  vorhanden, aber der Trainingsreiz hat sie nicht in Muskeln gelenkt —
+  Hebel 2 komplett kaputt. Zudem stammt ein Teil der Kalorien vermutlich
+  aus den Wochenenden (Alkohol + Folge-Essen): Überschuss zur falschen
+  Zeit, ohne Reiz, mit gestörter Regeneration.
+- **Test 2 (Logbuch):** Die Frage nach Arbeitsgewichten heute vs. vor
+  12 Monaten blieb unbeantwortet → sehr wahrscheinlich existiert kein
+  Logbuch und damit keine gesteuerte Progression.
+- **Diagnose:** Das System lief 18 Monate ohne eine einzige Messgröße —
+  kein Gewichtstrend, kein Logbuch, keine Kalorienzahl. Ohne
+  Feedback-Schleife driftet Ernährung Richtung Erhaltung und Training
+  Richtung gleichbleibender Gewichte. **Hauptverdächtiger: Punkt 2
+  (Progression), verstärkt durch Punkt 1 (ungesteuerte Zufuhr) und
+  Punkt 5 (Wochenende).**
+
+### Sofortmaßnahme: das 3-Zahlen-System (ab sofort, ~10 Min/Woche)
+
+1. **Waage:** 3–4 Morgenmessungen pro Woche, Wochenschnitt in
+   [tracking.md](tracking.md) eintragen
+2. **Logbuch:** jede Einheit, jeder Arbeitssatz (Übung × Gewicht × Wdh.).
+   Die erste Woche auf dem neuen Plan ist die Baseline.
+3. **Drinks:** Wochenend-Drinks ehrlich zählen
+
+Nach 2 Wochen: Kalorien kalibrieren ([ernaehrung.md](ernaehrung.md),
+Erhaltung + 250 kcal). Ab dann gelten genau zwei Regeln: Die Waage steigt
+um 0,25–0,5 kg pro Woche, und das Logbuch wird jede Woche geschlagen.
