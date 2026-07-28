@@ -505,4 +505,39 @@ Fotorealistisch, gleiche Qualität wie das Original. Erstelle 2 Varianten.
 
 ---
 
-*Status: Zielbild final = flacher Seitenklassiker (Abschnitt 13 ersetzt den Lift aus Abschnitt 12; Schnittbasis und Fehlerlisten bleiben gültig). Nächster Schritt: natürlichen Scheitel bestimmen → Gemini-Check → Termin mit Ansage aus Abschnitt 13. Danach: Bart, Schlaf, Foto-Technik.*
+## 14. DER EIGENE BEWEIS (28.07.): Das Business-Portrait ist die Blaupause
+
+> Auswertung von 5 echten Fotos (Spiegel-Selfie kurz geschnitten · 2× Urlaub/Berge · Feier candid · professionelles Business-Portrait). Ergebnis: **Die beste Frisur, die je auf diesem Kopf war, existiert bereits — auf dem Business-Portrait.** Eigenes Foto schlägt jede Fremd- und KI-Referenz: Es ist der Beweis am eigenen Kopf.
+
+### Ranking der 5 Looks
+
+| Platz | Foto | Frisur-Zustand | Warum |
+|---|---|---|---|
+| **1** | **Business-Portrait (Anzug)** | oben 4–5 cm, leichte Textur, Front weich zur Seite mit minimalem Stand, Seiten sauber mit weichem Übergang | Kompetent UND frisch; das Gesicht ist perfekt gerahmt; exakt die „richtige Frisur"-Wirkung ohne Produkt-Look |
+| 2 | Urlaubsfotos (Berge) | gleiche Längenklasse, luftgetrocknet-natürlich, sonnenaufgehellt | Der Casual-Modus desselben Schnitts: wirkt gesund, mühelos, lebendig |
+| 3 | Spiegel-Selfie (beige Troyer) | frischer Kurzschnitt, ungestylt | Ordentlich und sauber, aber einen Tick zu brav/flach — untere Längengrenze |
+| 4 | Feier (weißes Hemd) | oben am längsten, locker hochgeschoben | Charisma kommt vom Lachen, nicht vom Haar — die Länge kippt ins Fluffig-Undefinierte (das „Hänge"-Problem) |
+
+### Was das fürs Zielbild heißt (Feinjustierung von Abschnitt 13)
+
+Der flache Seitenklassiker bleibt die Richtung — mit einer Korrektur aus dem eigenen Beweisfoto: **Die Front darf weich texturiert mit minimalem Stand fallen** (wie im Portrait), sie muss nicht streng flach gekämmt sein. Obergrenze oben: ~5 cm (Feier-Foto zeigt: darüber beginnt das Hängen). Untergrenze: ~3,5–4 cm (Spiegel-Selfie zeigt: darunter wird es zu brav).
+
+### Finale Friseur-Ansage (einfachste Version aller Zeiten)
+
+> **„Bitte exakt wie auf diesem Foto von mir."** (Business-Portrait zeigen)
+> Technische Übersetzung, falls gefragt: Seiten und Nacken kurz mit weichem Übergang (~9–12 mm unten, keine nackte Haut), oben vorne 4–5 cm, leicht gestuft mit etwas Textur, Front fällt weich zur Seite mit minimalem Stand, Konturen sauber, Nacken natürlich.
+
+### Die zwei Modi (derselbe Schnitt)
+
+- **Gestylt (Portrait-Modus, ~90 Sek.):** handtuchfeucht → in Seitrichtung föhnen, am vorderen Ansatz 2–3 Sek. von unten → Kaltstufe → nichts oder halbe Erbse matte Paste
+- **Natur (Urlaubs-Modus, 0 Sek.):** lufttrocknen, einmal mit der Hand in die Seitrichtung schieben, fertig
+
+### Erkenntnisse jenseits der Frisur (aus dem 5-Foto-Vergleich)
+
+1. **Das Lächeln ist die größte Einzelvariable.** Alle Top-Fotos lächeln echt; alle schwachen Selfies schauen neutral. Wirkungsunterschied größer als jeder Haarschnitt.
+2. **Die Sommer-Version gewinnt:** sonnenaufgehelltes Haar + etwas Farbe im Gesicht (Urlaubsfotos) ist die vorteilhafteste Färbung — entsteht von allein durch Outdoor-Zeit (mit SPF!), kein Salon nötig.
+3. **Licht schlägt Styling:** Tageslicht/Studiolicht (Fotos 2/3/5) vs. Deckenlicht (Spiegel-Selfies) erklärt den halben Qualitätsunterschied.
+
+---
+
+*Status: Frisur FINAL entschieden — Referenz = eigenes Business-Portrait (Abschnitt 14). Termin buchen, Portrait-Foto mitnehmen. Übergangsphase: aktuelle Länge ist nah dran; erster Schnitt bringt Struktur. Danach im Plan: Bart-Entscheidung, Schlaf-Setup, Foto-Technik.*
