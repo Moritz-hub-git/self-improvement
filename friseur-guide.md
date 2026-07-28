@@ -325,4 +325,47 @@ Alle drei komplett in Abschnitt 9 dokumentierten Regeln plus neu: „Das Gesicht
 
 ---
 
-*Nächster Schritt: Föhn-Test zu Hause → Bildersuche zu Gosling/Skarsgård/Craig → 1–2 Favoriten per Transfer-Prompt in Gemini testen → Termin mit finaler Ansage aus Abschnitt 10.*
+## 12. ZIELFRISUR GEWÄHLT (28.07.): Der Reynolds-Schnitt
+
+> Entscheidung anhand zweier Ryan-Reynolds-Referenzen: (1) Men's-Health-Cover = gestylte Version mit Lift nach oben-hinten, (2) Casual-Foto = weiche Alltagsversion seitlich-zurück. **Beides ist derselbe Schnitt in zwei Stylings** — genau das Prinzip aus diesem Guide.
+
+### Warum diese Wahl objektiv richtig ist
+
+1. Haarfarbe und -typ der Referenz ≈ eigene (hellbraun, glatt-fein) → die Vorschau lügt nicht
+2. Deckhaar-Länge 5–7 cm = aktuelle Länge → **sofort umsetzbar, kein Wachstumsprojekt**
+3. Niedriger Lift, halbmatt, keine Produkt-Strähnen → besteht alle drei Lehren aus Abschnitt 10
+4. Richtung oben-hinten-seitlich = die gewohnte eigene Trage-Richtung → kein Fremdheits-Effekt
+5. Businesstauglich und casual zugleich, wächst gut raus (4–5-Wochen-Rhythmus)
+
+### Ehrliche Erwartung
+
+Reynolds hat minimal welligeres, griffigeres Haar und trägt Bartschatten — die eigene Version wird **etwas glatter und seidiger** wirken (näher an der Gosling-Ausprägung desselben Schnitts). Das ist gut so. **Nicht** versuchen, seine sichtbare Struktur mit Produkt zu erzwingen → das ist exakt die „speckig"-Falle. Die Struktur kommt aus Schnitt + Föhn.
+
+### Friseur-Ansage (beide Reynolds-Fotos mitnehmen und zeigen)
+
+> „Bitte wie auf diesen Fotos — der klassische Ryan-Reynolds-Schnitt: Seiten und Nacken kurz mit weichem Übergang, Schere oder mittlerer Aufsatz, ungefähr 9–12 mm unten, kein Fade-Kontrast, keine nackte Haut. Konturen an Ohren und Nacken sauber, Nacken natürlich auslaufend. Oben 5–7 cm, vorne am längsten, mit leichter Stufung und Textur, sodass ich es nach oben-hinten und zur Seite föhnen kann und die Front Stand hat. Insgesamt natürlich, kein sichtbarer Styling-Look."
+
+### Die zwei Stylings
+
+**Alltag (Casual-Foto, ~2 Min.):** Handtuchtrocken → mit den Fingern nach oben-hinten-seitlich föhnen, vorne 10 Sek. gegen die Richtung → kalt nachföhnen → nichts oder eine Prise Volumenpuder am vorderen Ansatz.
+
+**Gestylt (Cover-Foto, ~3–4 Min.):** Wie oben föhnen, aber mit mehr Zug am Ansatz (Front deutlicher aufstellen) → erbsengroß leichte matte Paste in den Handflächen verreiben, durch Längen und Spitzen kneten, Front mit den Fingern nach oben-hinten schieben → optional 1 Stoß flexibles Spray.
+
+### Gemini-Verifikation (eigenes Tageslicht-Selfie + je 1 Reynolds-Foto hochladen)
+
+```
+Ich lade zwei Bilder hoch. Bild 1 ist mein Foto, Bild 2 zeigt die Ziel-Frisur
+(Ryan Reynolds). Übertrage NUR die Frisur aus Bild 2 auf meinen Kopf in Bild 1:
+Schnittlängen, weicher Übergang an den Seiten, Styling-Richtung nach
+oben-hinten-seitlich, niedriges Volumen, halbmattes Finish.
+Passe sie an mein Haar an: glatt, fein, hellbraun — mein Haar ist glatter als in
+Bild 2, die Oberfläche darf weicher und geschlossener wirken, keine Wellen
+erzeugen, meine Haarfarbe und mein Haaransatz bleiben.
+Das Gesicht muss zu 100 % identisch mit Bild 1 bleiben: keine Beauty-Retusche,
+Hautstruktur, Bart, Ohren, Ausdruck, Licht, Hintergrund, Perspektive unverändert.
+Fotorealistisch, gleiche Qualität wie Bild 1. Erstelle 2 Varianten.
+```
+
+---
+
+*Status: Zielfrisur entschieden. Nächster Schritt: Termin buchen, beide Reynolds-Fotos + Ansage oben mitnehmen. Nach dem Schnitt: Foto für Styling-Feintuning. Danach im Plan: Bart-Entscheidung, Schlaf-Setup, Foto-Technik.*
