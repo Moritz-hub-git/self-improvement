@@ -294,4 +294,35 @@ Alle drei komplett in Abschnitt 9 dokumentierten Regeln plus neu: „Das Gesicht
 
 ---
 
-*Nächster Schritt: Föhn-Test zu Hause → Gemini-Runde 3 mit den Anti-Höhe-Prompts → Termin mit der finalen Ansage aus Abschnitt 10 + Referenzbild 3.*
+## 11. Vorbilder mit derselben Haarfarbe & Haarstruktur (28.07.)
+
+> Regel: **Frisuren nur von Männern kopieren, die dieselbe Haarfarbe und Haarfeinheit haben.** Dunkles, dickes Haar erzeugt Kontrast und grafische Definition — genau der Effekt, der bei hellem, feinem Haar physikalisch nicht reproduzierbar ist. Deshalb enttäuscht jede Dunkelhaar-Referenz nach dem Gemini-Transfer, obwohl der Transfer „realistisch" aussieht: Das Bild ist realistisch, aber der Coolness-Faktor der Vorlage (Kontrast + Bart + Gesicht) reist nicht mit.
+
+### Gruppe A — Niedrige weiche Seitentolle / Business-natürlich (= Zielbild Abschnitt 10)
+
+| Person | Warum passend | Suchbegriff |
+|---|---|---|
+| **Ryan Gosling** | Der Archetyp: feines, glattes, dunkelblondes Haar, längliches Gesicht — trägt fast immer niedrige, seitlich-zurück gelegte Formen, matt | `ryan gosling haircut side swept` |
+| **Alexander Skarsgård** | dunkelblond, fein, glatt, ebenfalls längeres Gesicht — niedrige, breite statt hohe Formen | `alexander skarsgard short haircut` |
+| **Matt Damon** | hellbraun, glatt — der klassische seriös-unauffällige Seitlich-Look, extrem businesstauglich | `matt damon classic haircut` |
+| **Toni Kroos** | dunkelblond, fein — der akkurate Seitenscheitel mit Übergang (formellste Variante) | `toni kroos frisur seitenscheitel` |
+
+### Gruppe B — Kurz & aufgeräumt (pflegeleichte Variante)
+
+| Person | Warum passend | Suchbegriff |
+|---|---|---|
+| **Daniel Craig** | sandblond, fein — kurzer, seitlich gelegter Textur-Schnitt (der „Bond-Cut" ist eine Standard-Friseuransage) | `daniel craig bond haircut` |
+| **Ryan Reynolds** | mittel-hellbraun, glatt — kurzer, natürlicher Alltagsschnitt mit minimalem Lift, halbmatt | `ryan reynolds haircut` |
+| **Joshua Kimmich** | braun (etwas dunkler), fein — kurzer, ordentlicher Crop; gute Alltagsreferenz | `joshua kimmich frisur` |
+
+### Gruppe C — Falls doch mehr „gemacht" gewünscht
+
+| Person | Warum passend | Suchbegriff |
+|---|---|---|
+| **Taron Egerton** | hellbraun, glatt — der Kingsman-Seitenscheitel: die gestylte, aber nicht hohe Variante | `taron egerton kingsman haircut` |
+
+**Gemini-Nutzung:** Foto einer dieser Personen zusammen mit dem eigenen Foto hochladen und den Referenzbild-Transfer-Prompt aus Abschnitt 9 verwenden. Weil die Haarfarbe schon stimmt, lügt das Ergebnis nicht mehr über den Kontrast-Effekt — was dort gut aussieht, ist real erreichbar.
+
+---
+
+*Nächster Schritt: Föhn-Test zu Hause → Bildersuche zu Gosling/Skarsgård/Craig → 1–2 Favoriten per Transfer-Prompt in Gemini testen → Termin mit finaler Ansage aus Abschnitt 10.*
