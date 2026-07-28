@@ -683,4 +683,28 @@ Der Unterschied zwischen schlechtestem und bestem eigenen Foto liegt zu ~85 % in
 
 ---
 
-*Status: Frisur ENTSCHIEDEN & GESCHLOSSEN, Föhn-Training läuft. Nächstes Thema: Bart (größter unbenutzter Hebel). Danach: Schlaf-Setup, Foto-Technik.*
+## 18. Selbst entdeckt (28.07., Bad-Session): Die niedrige seitliche Tolle — bestätigt
+
+> Eigene Entdeckung an alten Fotos + im Spiegel: „an einer Seite ansetzen, dort etwas hochföhnen, den Rest darüber nach hinten/zur Seite ziehen." **Name: niedrige seitliche Tolle (Side-swept Quiff).** Das ist exakt der Portrait-Modus aus Abschnitt 14 — jetzt aus eigener Beobachtung bestätigt. Kein neuer Schnitt nötig; der geplante Termin (Abschnitt 15/16) liefert genau die Basis dafür.
+
+### Die Bewegung, sauber zerlegt (so wird sie jeden Tag gleich)
+
+1. Handtuchfeucht, Scheitel an der natürlichen Seite setzen (immer dieselbe!)
+2. **Ansatz-Lift an der Scheitelseite:** die vordere Partie direkt an der Scheitellinie mit den Fingern anheben, 3–5 Sek. Luft von unten/hinten an den Ansatz
+3. **Sweep:** den Rest des Deckhaars mit der flachen Hand über den Kopf zur Seite/nach hinten legen, Luft folgt der Hand in Legerichtung
+4. Ränder andrücken: Seitenpartien über den Ohren flach föhnen
+5. Kaltstufe 10–15 Sek., 60 Sek. nicht anfassen
+6. Prise Puder an den angehobenen Ansatz (Alltag) oder halbe Erbse Paste (Anlässe)
+
+### Konsistenz-Regeln („immer gleich ordentlich")
+
+- **Gleiche Scheitelseite, gleiche Schrittfolge, jeden Tag** — Ordnung ist Wiederholung
+- **Schnitt-Kadenz 4–5 Wochen:** ab ~6 cm vorne kippt die Tolle (Hänge-Zone); der Rhythmus hält den Look konstant
+- **Konturen sind das Gepflegt-Signal:** Ohren/Nacken zwischen den Terminen bei Bedarf mit dem Trimmer sauber halten (oder kurzer Kontur-Service beim Barber, oft 5–10 €)
+- **Waschtag-Effekt:** frisch gewaschenes Haar ist fluffig-widerspenstig → am Waschtag Prise Puder mehr; Tag-2-Haar hält oft besser
+- **Feuchtes Wetter:** Kaltstufe + hauchdünn Paste in die Spitzen, sonst fällt die Tolle
+- **Tagsüber nicht reinfassen;** Mittags-Reset falls nötig: Ansatz mit leicht feuchten Fingern anheben, 30 Sek. nachföhnen oder Puder nachlegen
+
+---
+
+*Status: Frisur ENTSCHIEDEN & GESCHLOSSEN — Zielstyling aus eigener Beobachtung bestätigt (niedrige seitliche Tolle). Termin buchen. Nächstes Thema: Bart. Danach: Schlaf-Setup, Foto-Technik.*
