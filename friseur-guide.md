@@ -438,4 +438,71 @@ Fotorealistisch, gleiche Qualität wie das Original. Erstelle 2 Varianten.
 
 ---
 
-*Status: Zielfrisur entschieden. Nächster Schritt: Termin buchen, beide Reynolds-Fotos + Ansage oben mitnehmen. Vorher täglich Föhn-Routine üben. Nach dem Schnitt: Foto für Styling-Feintuning. Danach im Plan: Bart-Entscheidung, Schlaf-Setup, Foto-Technik.*
+## 13. ZIELBILD FINAL (28.07., Abend): Flacher Seitenklassiker — ohne Lift
+
+> Rückmeldung auf den Reynolds-Look: selbst der niedrige Lift ist zu viel. Gewünscht: **Haar liegt flach zur Seite, soll aber wie eine „richtige Frisur" aussehen.** Bisheriges Problem beim Selbst-zur-Seite-Legen: **die andere Seite hängt komisch herunter.**
+
+### Diagnose: Warum die andere Seite „hängt"
+
+Beim aktuellen Schnitt ist das Deckhaar überall gleich lang. Wer gleichlanges Haar einfach zur Seite schiebt, trägt **verschobenes Haar, keine seitlich geschnittene Frisur.** Drei Dinge fehlen:
+
+1. **Der Scheitel-Anker.** Ohne definierte Trennlinie an der natürlichen Falllinie kämpft das Haar gegen seinen Wuchs — irgendwo klappt es auf, und die Gegenseite kippt weg.
+2. **Die Längen-Asymmetrie im Schnitt.** Eine echte Seitwärts-Frisur wird FÜR die Richtung geschnitten: Auf der Legeseite bleibt Länge (4–6 cm), auf der **Gegenseite des Scheitels wird das Deckhaar kurz gestuft und läuft nahtlos in die kurze Seite** — dort KANN nichts mehr hängen, weil dort nichts Langes mehr ist.
+3. **Kurze Seiten als Rahmen.** Ist die Seite zu lang, wulstet das ankommende Haar über dem Ohr.
+
+Der „richtige Frisur"-Eindruck entsteht aus genau diesen drei Elementen — nicht aus Volumen.
+
+### Das Zielbild: Flacher Seitenklassiker
+
+- Weicher, natürlicher Seitenscheitel an der **natürlichen Falllinie** (keine harte/ausrasierte Linie)
+- Legeseite: Deckhaar 4–6 cm, flach und ordentlich zur Seite liegend, vorne leicht locker (keine strenge Kante)
+- Gegenseite: kurz gestuft, nahtlos in den Übergang laufend
+- Seiten/Nacken: kurz mit weichem Übergang (~10 mm unten), saubere Konturen
+- Finish: halbmatt, geschlossene Oberfläche, kein Lift, kein Produkt-Look
+- **Referenzen aus Abschnitt 11: Matt Damon (weiche Alltagsversion), Toni Kroos (akkuratere Variante)**
+
+### Natürlichen Scheitel finden (einmalig, 30 Sekunden)
+
+Nasses Haar glatt nach hinten kämmen → mit der flachen Hand langsam von hinten nach vorn schieben → wo das Haar von selbst aufteilt, ist die natürliche Scheitellinie. **Auf dieser Seite legen** — gegen die natürliche Seite gelegt entsteht genau das „Hängen" der Gegenseite.
+
+### Friseur-Ansage (final)
+
+> „Klassischer Herrenschnitt, flach zur Seite getragen, ohne Volumen. Weicher natürlicher Seitenscheitel auf meiner natürlichen Seite. Auf der Scheitelseite oben 4–6 cm zum Drüberlegen, **auf der anderen Seite des Scheitels bitte kürzer stufen, sodass es sauber in den Übergang läuft und nichts herunterhängt.** Seiten und Nacken kurz mit weichem Übergang, ungefähr 10 mm unten, keine nackte Haut. Vorne leicht fransig lassen, nicht streng. Soll gekämmt-ordentlich aussehen, aber natürlich."
+
+### Styling flach (einfacher als alles bisher, ~90 Sek.)
+
+1. Handtuchfeucht (oder morgens anfeuchten)
+2. Scheitel mit Kamm oder Fingern an der natürlichen Linie setzen
+3. Flach föhnen: Luft von der Scheitelseite schräg über den Kopf in Legerichtung, die flache Hand streicht mit; Front leicht schräg nach hinten-seitlich
+4. Nur direkt am Scheitel 2–3 Sekunden Luft von unten (verhindert den angeklatschten Helm-Look — das ist kein Lift, nur Weichheit)
+5. Kaltstufe in Legerichtung
+6. Halbe Erbse leichte matte Paste durch die Längen oder nichts; Front mit den Fingern leicht auflockern
+
+**Fehler, die den Look zerstören:** täglich wechselnde Scheitelseite (wirkt ungeschnitten) · gegen die natürliche Seite legen · zu nass starten (klatschig) · streng bis in die Spitzen kämmen (Buchhalter-Effekt — die Front bleibt locker)
+
+### Gemini-Text-Prompt (komplett)
+
+```
+Bearbeite mein hochgeladenes Foto. Ändere NUR die Frisur. Das Gesicht muss zu
+100 % identisch mit dem Original bleiben: keine Beauty-Retusche, Hautstruktur,
+Bart, Ohren, Ausdruck, Beleuchtung, Hintergrund und Perspektive unverändert.
+Mein Haar: glatt, fein, dicht, hellbraun — keine Locken, keine Wellen, keine
+andere Farbe, Haaransatz unverändert.
+
+Neue Frisur: Klassischer, flach zur Seite gelegter Herrenschnitt. Weicher,
+natürlicher Seitenscheitel ohne harte Linie. Vom Scheitel aus liegt das
+Deckhaar flach und ordentlich zur Seite, vorne 4–6 cm, ohne Anhebung am
+Ansatz, die vordere Kante leicht locker statt streng gekämmt. Auf der anderen
+Seite des Scheitels ist das Haar kürzer gestuft und läuft nahtlos in die kurze
+Seite über — dort hängt nichts herunter. Seiten und Nacken kurz mit weichem
+Übergang, unten ca. 10 mm, keine sichtbare Kopfhaut, saubere Konturen.
+Halbmattes natürliches Finish, glatte geschlossene Oberfläche — sieht aus wie
+ordentlich geföhnt und gekämmt, nicht nach Produkt.
+KEIN Volumen nach oben, KEINE Tolle, KEINE definierten Strähnen, KEIN Glanz.
+
+Fotorealistisch, gleiche Qualität wie das Original. Erstelle 2 Varianten.
+```
+
+---
+
+*Status: Zielbild final = flacher Seitenklassiker (Abschnitt 13 ersetzt den Lift aus Abschnitt 12; Schnittbasis und Fehlerlisten bleiben gültig). Nächster Schritt: natürlichen Scheitel bestimmen → Gemini-Check → Termin mit Ansage aus Abschnitt 13. Danach: Bart, Schlaf, Foto-Technik.*
