@@ -1,0 +1,120 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1180" font-family="Helvetica, Arial, sans-serif">
+  <rect width="900" height="1180" fill="#ffffff"/>
+
+  <!-- ===== Panel 1: Landkarte des Kopfes ===== -->
+  <text x="40" y="52" font-size="26" font-weight="bold" fill="#111111">1 · Landkarte des Kopfes (Seitenansicht, Blick nach rechts)</text>
+
+  <!-- Kopf -->
+  <circle cx="280" cy="250" r="115" fill="#f7ede2" stroke="#bbbbbb" stroke-width="2"/>
+  <rect x="238" y="345" width="84" height="60" fill="#f7ede2" stroke="#bbbbbb" stroke-width="2"/>
+  <!-- Ohr -->
+  <ellipse cx="288" cy="262" rx="13" ry="21" fill="none" stroke="#888888" stroke-width="3"/>
+  <text x="268" y="305" font-size="14" fill="#888888">Ohr</text>
+  <!-- Auge/Nase Andeutung -->
+  <circle cx="368" cy="232" r="4" fill="#888888"/>
+
+  <!-- Haarzonen als Arcs (Mitte 280,250 / Radius 132) -->
+  <!-- Seiten & Nacken: 150° bis 245° -->
+  <path d="M 166 184 A 132 132 0 0 0 224 370" fill="none" stroke="#5a9e6f" stroke-width="26"/>
+  <!-- Deckhaar: 50° bis 150° -->
+  <path d="M 365 149 A 132 132 0 0 1 166 184" fill="none" stroke="#4a7fb5" stroke-width="26"/>
+  <!-- Pony/Fransen: 20° bis 50° -->
+  <path d="M 404 205 A 132 132 0 0 1 365 149" fill="none" stroke="#d97a2b" stroke-width="26"/>
+  <!-- Übergang: Markierung an der Naht (135°–165°) -->
+  <path d="M 187 157 A 132 132 0 0 0 153 216" fill="none" stroke="#c0392b" stroke-width="30" stroke-dasharray="6 7" opacity="0.85"/>
+
+  <!-- Labels mit Linien -->
+  <line x1="330" y1="128" x2="470" y2="105" stroke="#4a7fb5" stroke-width="2"/>
+  <text x="478" y="100" font-size="19" fill="#111111" font-weight="bold">Deckhaar</text>
+  <text x="478" y="124" font-size="16" fill="#444444">das Haar oben auf dem Kopf</text>
+  <text x="478" y="145" font-size="16" fill="#444444">→ bleibt bei dir 5–6 cm lang</text>
+
+  <line x1="396" y1="180" x2="490" y2="196" stroke="#d97a2b" stroke-width="2"/>
+  <text x="498" y="192" font-size="19" fill="#111111" font-weight="bold">Pony / „Fransen“</text>
+  <text x="498" y="216" font-size="16" fill="#444444">die vordere Kante des Deckhaars,</text>
+  <text x="498" y="237" font-size="16" fill="#444444">die Richtung Stirn fällt</text>
+
+  <line x1="150" y1="190" x2="90" y2="120" stroke="#c0392b" stroke-width="2"/>
+  <text x="40" y="90" font-size="19" fill="#111111" font-weight="bold">Übergang („Fade“)</text>
+  <text x="40" y="112" font-size="16" fill="#444444">kurz wird stufenlos zu lang —</text>
+  <text x="40" y="133" font-size="16" fill="#444444" font-style="italic">wie ein Farbverlauf, ohne Kante</text>
+
+  <line x1="180" y1="330" x2="120" y2="400" stroke="#5a9e6f" stroke-width="2"/>
+  <text x="40" y="425" font-size="19" fill="#111111" font-weight="bold">Seiten &amp; Nacken</text>
+  <text x="40" y="449" font-size="16" fill="#444444">kurz, aber nicht auf null:</text>
+  <text x="40" y="470" font-size="16" fill="#444444">unten ca. 6–9 mm, keine nackte Haut</text>
+
+  <!-- ===== Panel 2: Textur ===== -->
+  <text x="40" y="560" font-size="26" font-weight="bold" fill="#111111">2 · „Textur“ = kleine Längenunterschiede — KEINE Locken</text>
+
+  <!-- Links: ohne Textur -->
+  <rect x="60" y="590" width="360" height="260" fill="#fafafa" stroke="#dddddd" rx="10"/>
+  <text x="240" y="622" font-size="18" font-weight="bold" fill="#111111" text-anchor="middle">Ohne Textur („blunt“ geschnitten)</text>
+  <text x="240" y="645" font-size="15" fill="#666666" text-anchor="middle">alle Haare exakt gleich lang</text>
+  <!-- gleich lange Striche, dicht -->
+  <g stroke="#4a4a4a" stroke-width="4" stroke-linecap="round">
+    <line x1="105" y1="820" x2="105" y2="675"/><line x1="127" y1="820" x2="127" y2="675"/>
+    <line x1="149" y1="820" x2="149" y2="675"/><line x1="171" y1="820" x2="171" y2="675"/>
+    <line x1="193" y1="820" x2="193" y2="675"/><line x1="215" y1="820" x2="215" y2="675"/>
+    <line x1="237" y1="820" x2="237" y2="675"/><line x1="259" y1="820" x2="259" y2="675"/>
+    <line x1="281" y1="820" x2="281" y2="675"/><line x1="303" y1="820" x2="303" y2="675"/>
+    <line x1="325" y1="820" x2="325" y2="675"/><line x1="347" y1="820" x2="347" y2="675"/>
+    <line x1="369" y1="820" x2="369" y2="675"/>
+  </g>
+  <line x1="95" y1="675" x2="380" y2="675" stroke="#c0392b" stroke-width="2" stroke-dasharray="5 5"/>
+  <text x="240" y="845" font-size="15" fill="#c0392b" text-anchor="middle" font-style="italic">liegt als geschlossene Platte → wirkt platt</text>
+
+  <!-- Rechts: mit Textur -->
+  <rect x="480" y="590" width="360" height="260" fill="#fafafa" stroke="#dddddd" rx="10"/>
+  <text x="660" y="622" font-size="18" font-weight="bold" fill="#111111" text-anchor="middle">Mit Textur (Point Cut)</text>
+  <text x="660" y="645" font-size="15" fill="#666666" text-anchor="middle">Längen variieren um Millimeter</text>
+  <!-- unterschiedlich lange Striche, in kleinen Gruppen -->
+  <g stroke="#4a4a4a" stroke-width="4" stroke-linecap="round">
+    <line x1="525" y1="820" x2="525" y2="682"/><line x1="545" y1="820" x2="545" y2="668"/>
+    <line x1="565" y1="820" x2="565" y2="690"/>
+    <line x1="601" y1="820" x2="601" y2="672"/><line x1="621" y1="820" x2="621" y2="695"/>
+    <line x1="641" y1="820" x2="641" y2="662"/>
+    <line x1="677" y1="820" x2="677" y2="688"/><line x1="697" y1="820" x2="697" y2="665"/>
+    <line x1="717" y1="820" x2="717" y2="700"/>
+    <line x1="753" y1="820" x2="753" y2="670"/><line x1="773" y1="820" x2="773" y2="692"/>
+    <line x1="793" y1="820" x2="793" y2="678"/>
+  </g>
+  <text x="660" y="845" font-size="15" fill="#2e7d4f" text-anchor="middle" font-style="italic">fällt in kleinen Strähnen → Halt, Volumen, Griff</text>
+
+  <text x="450" y="885" font-size="17" fill="#111111" text-anchor="middle" font-weight="bold">Alle Haare bleiben glatt. Locken entstehen nur durch Chemie (Dauerwelle) — niemals durch Schneiden.</text>
+
+  <!-- ===== Panel 3: Ein Schnitt, zwei Stylings ===== -->
+  <text x="40" y="945" font-size="26" font-weight="bold" fill="#111111">3 · Ein Schnitt, zwei Stylings</text>
+
+  <!-- Kopf links: Crop -->
+  <circle cx="230" cy="1050" r="62" fill="#f7ede2" stroke="#bbbbbb" stroke-width="2"/>
+  <path d="M 172 1028 A 62 62 0 0 1 285 1013" fill="none" stroke="#4a7fb5" stroke-width="14"/>
+  <!-- Fransen nach vorn/unten -->
+  <g stroke="#4a7fb5" stroke-width="4" stroke-linecap="round" fill="none">
+    <path d="M 282 1012 q 14 6 18 18"/>
+    <path d="M 268 1004 q 16 6 22 20"/>
+    <path d="M 253 999 q 18 7 25 22"/>
+  </g>
+  <path d="M 300 985 q 26 10 30 34" fill="none" stroke="#d97a2b" stroke-width="3" marker-end="url(#pfeil)"/>
+  <text x="230" y="1145" font-size="18" fill="#111111" text-anchor="middle" font-weight="bold">„Crop“ — Alltag (90 Sek.)</text>
+  <text x="230" y="1168" font-size="15" fill="#444444" text-anchor="middle">vorne fällt locker nach vorn</text>
+
+  <!-- Kopf rechts: Quiff -->
+  <circle cx="650" cy="1050" r="62" fill="#f7ede2" stroke="#bbbbbb" stroke-width="2"/>
+  <path d="M 592 1028 A 62 62 0 0 1 705 1013" fill="none" stroke="#4a7fb5" stroke-width="14"/>
+  <!-- Tolle nach oben-hinten -->
+  <g stroke="#4a7fb5" stroke-width="4" stroke-linecap="round" fill="none">
+    <path d="M 700 1010 q -2 -18 -16 -26"/>
+    <path d="M 686 1002 q -4 -18 -18 -25"/>
+    <path d="M 671 997 q -6 -17 -20 -23"/>
+  </g>
+  <path d="M 725 1000 q 0 -30 -28 -42" fill="none" stroke="#d97a2b" stroke-width="3" marker-end="url(#pfeil)"/>
+  <text x="650" y="1145" font-size="18" fill="#111111" text-anchor="middle" font-weight="bold">„Quiff“ = Tolle — Business (3–4 Min.)</text>
+  <text x="650" y="1168" font-size="15" fill="#444444" text-anchor="middle">vorne hochgeföhnt, leicht nach hinten</text>
+
+  <defs>
+    <marker id="pfeil" markerWidth="10" markerHeight="10" refX="6" refY="3" orient="auto">
+      <path d="M0,0 L7,3 L0,6 z" fill="#d97a2b"/>
+    </marker>
+  </defs>
+</svg>

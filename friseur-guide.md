@@ -17,7 +17,65 @@
 
 ---
 
-## 2. Die Optionen im Vergleich (mit Wirkung/„Ausdruck")
+## 2. Klartext-Glossar — die Begriffe ohne Friseurdeutsch
+
+> Schaubild dazu: [assets/friseur-begriffe.svg](assets/friseur-begriffe.svg)
+
+### Die Landkarte des Kopfes
+
+| Begriff | Bedeutet einfach |
+|---|---|
+| **Deckhaar** | Das Haar oben auf dem Kopf. Bleibt bei dir 5–6 cm lang |
+| **Seiten / Nacken** | Alles über den Ohren und hinten unten. Wird kurz |
+| **Pony / „Fransen"** | Die vordere Kante des Deckhaars, die Richtung Stirn fällt |
+| **Übergang / „Fade"** | Die Stelle, wo kurz stufenlos zu lang wird — wie ein Farbverlauf, ohne sichtbare Kante. „Nicht auf null" heißt: die kürzeste Stelle bleibt 6–9 mm, keine nackte Haut |
+
+### Die zwei Frisuren übersetzt
+
+- **„Texturierter Crop"** = kurzer Schnitt, bei dem das Deckhaar **nach vorn Richtung Stirn** getragen wird und vorne in einer lockeren, leicht unregelmäßigen Kante endet (nicht schnurgerade wie mit dem Lineal). Deutsch am nächsten: „kurzer strukturierter Schnitt mit Fransen".
+- **„Quiff"** = auf Deutsch schlicht **Tolle**: das vordere Drittel des Deckhaars wird **nach oben und leicht nach hinten** geföhnt, die Stirn ist frei. Keine Elvis-Tolle — eine lockere, moderate Version.
+
+### „Textur" — die wichtigste Entwarnung: hat NICHTS mit Locken zu tun
+
+Locken entstehen ausschließlich durch Chemie (Dauerwelle) oder Hitze (Lockenstab) — **durch Schneiden können physikalisch keine Locken entstehen.** Kein Friseur macht aus dem Wort „Textur" eine Dauerwelle; das wäre eine separate Dienstleistung, die du ausdrücklich bestellen müsstest.
+
+„Textur reinschneiden" heißt nur: **die Haare im Deckhaar werden minimal unterschiedlich lang geschnitten** (Unterschiede von Millimetern). Vergleich Kartenstapel: exakt bündig gestapelt = ein kompakter Block; leicht aufgefächert = Struktur und Luft dazwischen. Beim Haar genauso:
+
+- **Alle exakt gleich lang** („blunt") → das Haar liegt als geschlossene Platte an → **platt** (dein aktueller Zustand)
+- **Minimal unterschiedlich lang** (Textur) → das Haar fällt in kleinen Strähnen, hält Luft am Ansatz und gibt dem Clay etwas zu greifen → **Volumen und Form, bei komplett glattem Haar**
+
+### Was der Friseur dafür technisch anders macht als beim Standardschnitt
+
+1. **Point Cutting:** Die Schere schneidet **schräg von oben in die Spitzen** hinein statt gerade quer durch — dadurch entstehen die kleinen Längenunterschiede
+2. **Effilierschere** (Schere mit Zahnlücken) sparsam: nimmt Masse raus, ohne die Form zu ändern
+3. **Leichte innere Stufung:** untere Haarschichten minimal kürzer, damit sie die oberen stützen → Stand am Ansatz
+4. **Weiche Ponykante:** vorne fransig statt gerade Linie
+5. Seiten als **Verlauf** (Maschinenaufsätze absteigend, z. B. 9 → 6 mm) statt eine Einheitslänge
+
+Ein Standard-Herrenschnitt („Maschine an den Seiten, oben gerade nachgeschnitten") macht Punkt 1–4 **nicht** — deshalb liegt dein Haar aktuell als Fläche an.
+
+### Wo du jetzt stehst → wo du hinkommst
+
+| | Jetzt (Fotos vom 28.07.) | Nach dem Schnitt |
+|---|---|---|
+| Deckhaar | überall ähnlich lang, liegt als geschlossene Fläche platt an | in Strähnen fallend, Luft am Ansatz, mit 2 Min. Styling Volumen |
+| Pony | fällt als formlose „Klappe" zur Seite | lockere, absichtliche Kante nach vorn (Crop) oder hochgeföhnt (Tolle) |
+| Seiten | fluffig über die Ohren gewachsen | kurz mit Verlauf, saubere Kontur um Ohren und Nacken |
+| Gesamteindruck | „rausgewachsen, zufällig" | „frisch geschnitten, absichtlich, gepflegt" |
+
+### Bessere Suchbegriffe für Referenzfotos (glattes Haar!)
+
+Die Bildersuche nach „textured crop" zeigt überproportional Models mit Wellen/Locken — der Look ist bei denen fotogen, aber er funktioniert genauso mit glattem Haar. Such stattdessen:
+
+- **„textured crop straight hair men"**
+- **„short textured haircut straight hair"**
+- deutsch: **„Männer Kurzhaarschnitt glattes Haar strukturiert"**
+
+Gutes Referenzfoto erkennst du an: Haar ist **glatt** und liegt in **sichtbaren Strähnen** (nicht Wellen), vorne ca. 5 cm Länge, Seiten kurz aber nicht rasiert.
+
+---
+
+## 3. Die Optionen im Vergleich (mit Wirkung/„Ausdruck")
 
 ### Option A — Texturierter Crop *(Empfehlung: Alltags-Default)*
 Seiten kurz mit weichem Übergang (Schere/dezenter Fade), oben 4–6 cm mit geschnittener Textur, Fransen locker nach vorn/zur Seite.
@@ -55,7 +113,7 @@ Gleiche Seiten wie A, oben 5–7 cm, gestylt mit Volumen nach oben-seitlich-hint
 
 ---
 
-## 3. Die Ansage — Wort für Wort dekodiert
+## 4. Die Ansage — Wort für Wort dekodiert
 
 > **„Seiten und Nacken kurz mit Übergang — Schere oder dezenter Fade, nicht auf null. Oben Länge lassen, vorne etwa 5–6 cm, und ordentlich Textur reinschneiden, damit es mit wenig Produkt Volumen hält. Fransig-strukturiert, kein strenger Scheitel. Ich style morgens maximal 2 Minuten mit mattem Clay."*
 
@@ -74,13 +132,13 @@ Gleiche Seiten wie A, oben 5–7 cm, gestylt mit Volumen nach oben-seitlich-hint
 
 ---
 
-## 4. Warum überhaupt so präzise reden?
+## 5. Warum überhaupt so präzise reden?
 
 Friseure übersetzen vage Adjektive in ihre persönlichen Defaults — „modern kurz" heißt in jedem Laden etwas anderes. Die Ansage oben ersetzt Geschmacksvokabeln durch **Struktur (Übergang), Maße (5–6 cm, nicht auf null), Technik (Textur) und Alltagskontext (2 Min, Clay)**. Das sind die vier Dinge, die ein Schnitt objektiv hat. Alles andere (welcher Look genau) klärt das Referenzfoto. So bekommst du in jedem Laden — auch beim 25-€-Friseur — ein reproduzierbares Ergebnis.
 
 ---
 
-## 5. Styling-Anleitung (beide Looks aus demselben Schnitt)
+## 6. Styling-Anleitung (beide Looks aus demselben Schnitt)
 
 **Alltag / Crop (90 Sek.):** Haar handtuchtrocken → 3–4 Sprühstöße Sea-Salt-Spray, einkneten → kurz mit den Fingern trockenföhnen oder lufttrocknen → erbsengroß mattes Clay in den Handflächen verreiben, gegen die Wuchsrichtung durchkneten, vorne locker fallen lassen. Fertig.
 
@@ -90,7 +148,7 @@ Produkte: Sea-Salt-Spray + mattes Clay/Paste (~15–20 € zusammen, Drogerie re
 
 ---
 
-## 6. Rhythmus & Logistik
+## 7. Rhythmus & Logistik
 
 - **Nachschnitt alle 4–6 Wochen** (Kalender-Serientermin direkt im Laden machen — das ist der Unterschied zwischen „immer gepflegt" und „meistens rausgewachsen")
 - Vor wichtigen Terminen/Fotos: Schnitt **3–7 Tage vorher**, nicht am Vortag (frisch geschnitten wirkt 2–3 Tage „kantig")
