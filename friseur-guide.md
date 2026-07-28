@@ -366,6 +366,76 @@ Hautstruktur, Bart, Ohren, Ausdruck, Licht, Hintergrund, Perspektive unveränder
 Fotorealistisch, gleiche Qualität wie Bild 1. Erstelle 2 Varianten.
 ```
 
+### Text-Prompts ohne Referenzbild (Beschreibung statt Zielfoto)
+
+**Alltagsversion:**
+
+```
+Bearbeite mein hochgeladenes Foto. Ändere NUR die Frisur. Das Gesicht muss zu
+100 % identisch mit dem Original bleiben: keine Beauty-Retusche, Hautstruktur,
+Bart, Ohren, Ausdruck, Beleuchtung, Hintergrund und Perspektive unverändert.
+Mein Haar: glatt, fein, dicht, hellbraun — keine Locken, keine Wellen, keine
+andere Farbe, Haaransatz unverändert.
+
+Neue Frisur: Klassischer kurzer Herrenschnitt. Seiten und Nacken kurz mit
+weichem, allmählichem Übergang: unten ca. 10 mm, nach oben länger werdend,
+kein rasierter Kontrast, keine sichtbare Kopfhaut. Saubere, natürliche Konturen
+an Ohren und Nacken. Deckhaar 5–7 cm, vorne am längsten, leicht gestuft.
+Styling: weich nach oben-hinten und leicht zur Seite geföhnt, vorne eine
+niedrige natürliche Anhebung von 2–3 cm. Oberfläche weich und überwiegend
+geschlossen, halbmattes Finish — sieht nach Föhn aus, nicht nach Produkt.
+KEINE definierten Strähnen, KEIN Glanz, KEINE hohe Tolle.
+
+Fotorealistisch, gleiche Qualität wie das Original. Erstelle 2 Varianten.
+```
+
+**Gestylte Version (nur der Frisur-Absatz ändert sich):**
+
+```
+Bearbeite mein hochgeladenes Foto. Ändere NUR die Frisur. Das Gesicht muss zu
+100 % identisch mit dem Original bleiben: keine Beauty-Retusche, Hautstruktur,
+Bart, Ohren, Ausdruck, Beleuchtung, Hintergrund und Perspektive unverändert.
+Mein Haar: glatt, fein, dicht, hellbraun — keine Locken, keine Wellen, keine
+andere Farbe, Haaransatz unverändert.
+
+Neue Frisur: Klassischer kurzer Herrenschnitt. Seiten und Nacken kurz mit
+weichem, allmählichem Übergang: unten ca. 10 mm, nach oben länger werdend,
+kein rasierter Kontrast, keine sichtbare Kopfhaut. Deckhaar 5–7 cm, vorne am
+längsten, leicht gestuft. Styling: Front kräftiger aufgestellt (4–5 cm Lift),
+nach oben-hinten geföhnt, in weiche große Partien gelegt — nicht in einzelne
+nasse Strähnen. Seidenmattes Finish, dezent und gepflegt.
+KEIN Glanz, KEIN Wet-Look, KEINE übertriebene Höhe.
+
+Fotorealistisch, gleiche Qualität wie das Original. Erstelle 2 Varianten.
+```
+
+### Styling im Detail (funktioniert schon vor dem Friseurtermin)
+
+**Warum Föhnen überhaupt funktioniert:** Haar ist formbar, solange es feucht ist, und friert die Form beim Abkühlen ein. Deshalb: Trockenes Haar kann man nicht umstylen, tropfnasses nicht fixieren — der Arbeitspunkt ist **handtuchfeucht**.
+
+**Werkzeug:** normaler Föhn (ideal mit schmaler Stylingdüse), Finger reichen (optional Skelettbürste), Volumenpuder, leichte matte Paste.
+
+**Alltags-Styling, Schritt für Schritt (~2–3 Min.):**
+1. Ausgangspunkt: nach der Dusche handtuchtrocken tupfen (nicht rubbeln). Ohne Dusche: Deckhaar und Ansatz mit nassen Händen oder Sprühflasche anfeuchten.
+2. Föhn: mittlere Hitze, volle Gebläsestufe, 10–15 cm Abstand, **immer in Bewegung**.
+3. Grob vorföhnen: alles nach oben-hinten aus dem Gesicht, dabei mit gespreizten Fingern der freien Hand das Haar vom Kopf abheben.
+4. **Ansatz-Lift vorne (der wichtigste Schritt):** Front mit den Fingern senkrecht hochhalten und den Luftstrom 10–15 Sekunden von unten/hinten an den Ansatz. 
+5. In Form legen: mit der flachen Hand nach hinten-seitlich streichen, der Luftstrom folgt der Hand **in Legerichtung** (= glatte Oberfläche, kein Frizz).
+6. **Kaltstufe 10–15 Sekunden** in Legerichtung — das fixiert die Form für den Tag.
+7. Finish: nichts — oder eine **Prise** Volumenpuder direkt auf den vorderen Ansatz tupfen und mit den Fingerspitzen einmassieren.
+
+**Gestylte Version (+1–2 Min.):** Schritt 4 verlängern (mehr Zug, ggf. Bürste). Danach Paste: **erbsengroße** Menge in den Handflächen verreiben, bis sie unsichtbar ist, dann mit offenen Fingern nur durch **Längen und Spitzen** des Deckhaars, Front nach oben-hinten schieben. Optional 1 Stoß flexibles Spray aus 30 cm.
+
+**Die 6 klassischen Fehler:**
+1. Trockenes Haar stylen wollen (physikalisch zwecklos)
+2. Tropfnass föhnen (dauert, schädigt, hält nicht)
+3. Föhn zu heiß, zu nah oder statisch auf eine Stelle
+4. Zu viel Produkt — mehr als eine Erbse Paste oder eine Prise Puder = Speck-Look
+5. Paste an Ansatz oder Kopfhaut (fettet und plättet — nur Längen/Spitzen)
+6. Tagsüber ständig reinfassen (Handfett + Form bricht)
+
+**Troubleshooting:** Form fällt mittags zusammen → Kaltstufe vergessen oder zu nass gestartet; Prise Puder nachlegen. Haar fliegt statisch → weniger Hitze, hauchdünn Paste in die Spitzen.
+
 ---
 
-*Status: Zielfrisur entschieden. Nächster Schritt: Termin buchen, beide Reynolds-Fotos + Ansage oben mitnehmen. Nach dem Schnitt: Foto für Styling-Feintuning. Danach im Plan: Bart-Entscheidung, Schlaf-Setup, Foto-Technik.*
+*Status: Zielfrisur entschieden. Nächster Schritt: Termin buchen, beide Reynolds-Fotos + Ansage oben mitnehmen. Vorher täglich Föhn-Routine üben. Nach dem Schnitt: Foto für Styling-Feintuning. Danach im Plan: Bart-Entscheidung, Schlaf-Setup, Foto-Technik.*
