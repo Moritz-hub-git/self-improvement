@@ -52,7 +52,7 @@ Gewicht konstant halten, während sich der Körper sichtbar verändert.
 ## Meilensteine
 
 - [ ] Woche 0: Startwerte + Startfotos erfasst
-- [ ] Woche 4: 12 Einheiten absolviert (Gewohnheit steht)
+- [ ] Woche 4: 12 Einheiten absolviert und lückenlos geloggt (System läuft)
 - [ ] Woche 8: Erste Progression auf allen Grundübungen (+5–10 kg)
 - [ ] Woche 12: Review 1 — sichtbare Veränderung auf den Fotos
 - [ ] Monat 4: Wechsel auf Upper/Lower (Phase 2)

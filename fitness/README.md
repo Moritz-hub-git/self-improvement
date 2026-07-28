@@ -5,17 +5,34 @@
 
 ## Standortbestimmung (Juli 2026)
 
-Ehrliche Analyse des Ausgangspunkts:
+Fakten:
 
-- **Körpertyp:** schlank, untrainiert. Geschätzter Körperfettanteil ~14–17 %.
-- **Muskelmasse:** gering. Schultern, Brust und Arme sind kaum entwickelt,
-  der Rumpf ist schmal. Es gibt aktuell wenig Muskulatur, die man
-  "definieren" könnte.
-- **Fettmasse:** unproblematisch. Kein nennenswerter Bauchansatz, keine
-  Diät-Altlasten. Es steht keine monatelange Abnehmphase im Weg.
-- **Fazit:** Das ist einer der besten Ausgangspunkte überhaupt. Schlank und
-  untrainiert heißt: direkter Einstieg in den Muskelaufbau, volle
-  Anfänger-Zuwächse ("Newbie Gains"), keine Umwege.
+- **Trainingshistorie:** seit ~1,5 Jahren im Gym, im Schnitt 3×/Woche.
+  Die Trainingsgewohnheit steht — der Teil, an dem die meisten scheitern,
+  ist längst gelöst.
+- **Ernährung:** bereits auf proteinreiche Kost umgestellt.
+- **Optischer Befund trotzdem:** schlank (~14–17 % KFA), wenig sichtbare
+  Muskelmasse an Schultern, Brust, Armen und Rücken. Kein nennenswerter
+  Bauchansatz, keine Diät-Altlasten.
+
+**Diagnose:** Der Input (18 Monate × 3 Einheiten/Woche) kommt nicht als
+Output (Muskelmasse) an. Ein funktionierendes System erzeugt in diesem
+Zeitraum bei praktisch jedem deutlich sichtbare Veränderung. Bleibt sie
+aus, liegt es nicht am Körper, sondern an mindestens einem dieser Hebel:
+
+1. **Kein Kalorienüberschuss** — wahrscheinlichste Ursache bei Schlanken.
+   Protein ist Baumaterial, keine Energie.
+2. **Keine progressive Überlastung** — gleiche Gewichte über Monate, kein Log.
+3. **Zu weit weg vom Muskelversagen** — Sätze ohne echten Wachstumsreiz.
+4. **Unstrukturiertes Programm** — kein roter Faden, an dem Progression
+   messbar wäre.
+5. **Wochenend-Alkohol** — 70+ Wochenenden chronisch gestörte Regeneration.
+
+Selbsttests und Fixes: [fehleranalyse.md](fehleranalyse.md).
+
+**Die gute Nachricht:** Wer 18 Monate mit angezogener Handbremse trainiert
+hat, bekommt beim Lösen der Bremse Zuwächse nahe am Anfänger-Tempo — mit
+fertiger Technik und fertiger Gewohnheit als Vorsprung.
 
 **Die Kernerkenntnis:** Definition = Muskelmasse × niedriger Körperfettanteil.
 Der Körperfettanteil ist schon fast da. Was fehlt, ist fast ausschließlich
@@ -33,10 +50,10 @@ Muskelmasse. Priorität Nr. 1 für die nächsten 12 Monate ist daher
 
 | Zeitpunkt | Was passiert |
 |---|---|
-| Woche 1–6 | Kraft steigt schnell, Muskeln fühlen sich "voller" an. Im Spiegel noch wenig sichtbar. Kritische Phase: Gewohnheit etablieren. |
+| Woche 1–6 | Kraft steigt schnell, Muskeln fühlen sich "voller" an. Im Spiegel noch wenig sichtbar. Kritische Phase: Überschuss, Logbuch und Wochenend-Deckel als neue Standards etablieren. |
 | Monat 3 | Erste sichtbare Veränderung: Schultern und Brust zeichnen sich ab, Kleidung sitzt anders. |
 | Monat 6 | Deutlich sichtbar — andere Leute bemerken es und sprechen es an. |
-| Monat 12 | Ziel in Reichweite: +5–8 kg Muskelmasse sind im ersten Trainingsjahr realistisch. Mit kurzem Mini-Cut am Ende: definierter, athletischer Körper. |
+| Monat 12 | Ziel in Reichweite: +5–8 kg Muskelmasse sind im ersten Jahr mit funktionierendem System (Überschuss + Progression) realistisch. Mit kurzem Mini-Cut am Ende: definierter, athletischer Körper. |
 | Monat 18–24 | Das Niveau, bei dem man am Strand auffällt. Ab hier ist Erhalten leicht (2–3 Einheiten/Woche). |
 
 **Ehrliche Ansage:** Die ersten 8 Wochen liefern das kleinste sichtbare
@@ -84,14 +101,18 @@ eskaliert** — die konkreten Regeln stehen in
 
 | Datei | Inhalt |
 |---|---|
+| [fehleranalyse.md](fehleranalyse.md) | Warum 18 Monate Training wenig sichtbares Ergebnis gebracht haben: 5 Verdächtige, Selbsttests, Fixes |
 | [trainingsplan.md](trainingsplan.md) | Phase 1 (Ganzkörper 3×/Woche) und Phase 2 (Upper/Lower 4×/Woche), Übungen, Progression |
 | [ernaehrung.md](ernaehrung.md) | Kalorien, Protein, einfache Regeln, Alkohol-Strategie |
 | [tracking.md](tracking.md) | Wöchentliches Tracking, Fotos, 12-Wochen-Reviews |
 
 ## Startschritte (diese Woche)
 
-- [ ] Im Fitnessstudio anmelden (max. 15 Min Anfahrt, sonst stirbt die Gewohnheit)
+- [ ] Die drei Selbsttests aus [fehleranalyse.md](fehleranalyse.md)
+      schriftlich beantworten (Waage, Logbuch, Intensität)
 - [ ] Ausgangswerte erfassen: Körpergewicht, Taillenumfang, Startfotos ([tracking.md](tracking.md))
-- [ ] 3 feste Trainingstage in den Kalender eintragen (z. B. Mo/Mi/Fr vor oder direkt nach der Arbeit)
-- [ ] Erste Einheit: Workout A aus [trainingsplan.md](trainingsplan.md) — Gewichte bewusst leicht wählen, Technik lernen
-- [ ] Proteinquellen einkaufen (siehe [ernaehrung.md](ernaehrung.md))
+- [ ] Kalorienziel berechnen (Erhaltung + 250 kcal) und ab sofort 2 Wochen
+      alles ehrlich tracken ([ernaehrung.md](ernaehrung.md))
+- [ ] Auf den Plan aus [trainingsplan.md](trainingsplan.md) wechseln:
+      Startgewichte = aktuelle Arbeitsgewichte, ab sofort jede Einheit loggen
+- [ ] Trinkregel fürs kommende Wochenende vorab festlegen: 1 Abend, max. 3–4 Drinks

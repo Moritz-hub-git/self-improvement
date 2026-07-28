@@ -1,8 +1,14 @@
 # Trainingsplan
 
-Zwei Phasen. Phase 1 baut Technik, Kraftbasis und die Trainingsgewohnheit
-auf. Phase 2 erhöht das Volumen für die "Show-Muskeln" (Schultern, Brust,
-Rücken, Arme), sobald der Körper mehr verträgt.
+Zwei Phasen. Phase 1 installiert das, was in 1,5 Jahren Training vermutlich
+gefehlt hat: eine feste Struktur mit lückenlosem Logbuch und erzwungener
+Progression. Phase 2 erhöht das Volumen für die "Show-Muskeln" (Schultern,
+Brust, Rücken, Arme).
+
+Mit vorhandener Trainingserfahrung gilt: **Startgewichte sind die aktuellen
+Arbeitsgewichte** (nicht bei null anfangen), und der Wechsel zu Phase 2 ist
+bereits nach 6–8 Wochen möglich, wenn jede Einheit geloggt und progressiv
+war.
 
 **Grundprinzip — progressive Überlastung:** Jede Woche ein kleines bisschen
 mehr leisten als letzte Woche (1 Wiederholung mehr oder +2,5 kg). Das ist
@@ -50,8 +56,10 @@ Dauer pro Einheit: 60–75 Min inkl. Aufwärmen.
    allen Sätzen steht (z. B. 3 × 10).
 3. Dann Gewicht um 2,5 kg erhöhen (Unterkörper ggf. 5 kg) und zurück ans
    untere Ende. Wiederholen.
-4. Jeder Satz endet 1–2 Wiederholungen vor dem Muskelversagen — schwer,
-   aber sauber.
+4. Jeder Satz endet 1–2 Wiederholungen vor dem Muskelversagen (RIR 1–2) —
+   schwer, aber sauber. Faustregel: Wird die letzte Wiederholung nicht
+   sichtbar langsamer als die erste, war der Satz zu leicht und zählt kaum
+   als Wachstumsreiz.
 
 **Alles loggen** (App oder Notizen): Übung, Gewicht, Wiederholungen. Ohne
 Log keine Progression.

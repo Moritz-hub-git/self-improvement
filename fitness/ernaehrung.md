@@ -10,6 +10,12 @@ strukturiert, das Wochenende wird kontrolliert (nicht perfekt).
 
 ## Kalorien
 
+> **Der bisher fehlende Teil:** Protein ist Baumaterial, keine Energie.
+> Proteinreich essen, aber auf Erhaltungskalorien bleiben = Baustelle mit
+> Material, aber ohne Budget — genau so sehen 18 Monate Training ohne
+> sichtbaren Aufbau aus. Der Überschuss und die kontrolliert steigende
+> Waage sind der Hebel, nicht noch mehr Protein.
+
 1. **Erhaltungsbedarf schätzen:** Körpergewicht (kg) × 33–35 kcal
    (bei Bürojob + 3–4 Einheiten Training + 8.000 Schritten).
    Beispiel 72 kg → ~2.400–2.500 kcal.
