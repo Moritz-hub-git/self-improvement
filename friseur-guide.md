@@ -668,6 +668,19 @@ Der Unterschied zwischen schlechtestem und bestem eigenen Foto liegt zu ~85 % in
 
 **Übungs-Hack:** Handy schräg vorn aufstellen und die Session filmen — 30 Sekunden Video zeigen sofort, wo die Luft falsch stand.
 
+### Produkt-Setup final (kein Wachs!)
+
+| Produkt | Rolle | Menge & Anwendung | Beispiele (DE) |
+|---|---|---|---|
+| **Leichte matte Stylingpaste/-creme** (Halt leicht–mittel) | Hauptprodukt für den „gemacht"-Modus | halbe Erbse, in den Handflächen unsichtbar verreiben, nur Längen/Spitzen, nach dem Föhnen | got2b „Das Matte" Paste (~5 €) · American Crew Forming Cream (~15 €) |
+| **Volumenpuder** | Alltags-Stand am vorderen Ansatz, unsichtbar | 1 Prise direkt auf den trockenen Ansatz tupfen, einmassieren | got2b Puder (~4 €) · OSiS Dust It (~12 €) |
+| Meersalz-Spray *(optional)* | Grip vorm Föhnen | 3–4 Sprühstöße ins handtuchfeuchte Haar | got2b Meersalz Spray (~5 €) |
+| Flexibles Haarspray *(optional)* | Fixierung für Anlässe | 1 Stoß aus 30 cm | jedes „flexible hold" |
+
+**Nie kaufen für dieses Haar:** klassisches **Wachs** (Glanz + Gewicht → verklebt feines Haar zum Speck-Look und plättet), **Gel** (hart, glänzend, krümelt), **Pomade** (Glanz, für Slick-Looks), **Clay nur mit Vorsicht** (zu dicht, betont Strähnen). Kaufkriterien, falls andere Marke: „matt/natural finish" + „light/medium hold" + Bezeichnung „Paste" oder „Cream".
+
+**Minimal-Setup:** Föhn + Puder (Alltag) und Paste (Anlässe) — zusammen unter 10 € in der Drogerie.
+
 ---
 
 *Status: Frisur ENTSCHIEDEN & GESCHLOSSEN, Föhn-Training läuft. Nächstes Thema: Bart (größter unbenutzter Hebel). Danach: Schlaf-Setup, Foto-Technik.*
