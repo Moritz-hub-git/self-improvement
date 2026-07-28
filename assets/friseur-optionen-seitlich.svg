@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 940" font-family="Helvetica, Arial, sans-serif">
+  <rect width="900" height="940" fill="#ffffff"/>
+  <text x="40" y="46" font-size="25" font-weight="bold" fill="#111111">Deine Richtung: zur Seite / nach hinten — 4 Schnitt-Optionen</text>
+  <text x="40" y="74" font-size="15" fill="#666666">Basis überall gleich (Seiten mit Übergang, Textur oben) — Unterschied ist nur Länge und Richtung vorne</text>
+
+  <defs>
+    <marker id="pfeil" markerWidth="10" markerHeight="10" refX="6" refY="3" orient="auto">
+      <path d="M0,0 L7,3 L0,6 z" fill="#d97a2b"/>
+    </marker>
+  </defs>
+
+  <!-- ===== 1: Ivy League (vorne links) ===== -->
+  <circle cx="230" cy="250" r="65" fill="#f7ede2" stroke="#bbbbbb" stroke-width="2"/>
+  <circle cx="208" cy="256" r="3.5" fill="#999999"/><circle cx="252" cy="256" r="3.5" fill="#999999"/>
+  <path d="M 169 228 A 65 65 0 0 1 291 228" fill="none" stroke="#4a7fb5" stroke-width="12"/>
+  <g stroke="#4a7fb5" stroke-width="3.5" stroke-linecap="round">
+    <line x1="185" y1="205" x2="194" y2="194"/><line x1="205" y1="196" x2="214" y2="185"/>
+    <line x1="225" y1="191" x2="234" y2="180"/><line x1="245" y1="190" x2="254" y2="179"/>
+    <line x1="265" y1="193" x2="274" y2="182"/><line x1="282" y1="200" x2="291" y2="190"/>
+  </g>
+  <path d="M 195 158 q 32 -10 64 -2" fill="none" stroke="#d97a2b" stroke-width="3" marker-end="url(#pfeil)"/>
+  <text x="230" y="352" font-size="18" font-weight="bold" fill="#111111" text-anchor="middle">1 · Ivy League („College-Schnitt“)</text>
+  <text x="230" y="376" font-size="14.5" fill="#444444" text-anchor="middle">aufgeräumt, klassisch-sportlich, sehr pflegeleicht</text>
+  <text x="230" y="397" font-size="14.5" fill="#777777" text-anchor="middle">oben 3–5 cm, zur Seite gelegt · ~60 Sek. Styling</text>
+
+  <!-- ===== 2: Moderner Seitenscheitel (vorne rechts) ===== -->
+  <circle cx="650" cy="250" r="65" fill="#f7ede2" stroke="#bbbbbb" stroke-width="2"/>
+  <circle cx="628" cy="256" r="3.5" fill="#999999"/><circle cx="672" cy="256" r="3.5" fill="#999999"/>
+  <path d="M 589 228 A 65 65 0 0 1 711 228" fill="none" stroke="#4a7fb5" stroke-width="12"/>
+  <!-- Scheitel-Linie -->
+  <line x1="622" y1="212" x2="616" y2="184" stroke="#f7ede2" stroke-width="5"/>
+  <!-- links vom Scheitel: kurz nach links -->
+  <path d="M 612 196 q -12 -2 -20 6" fill="none" stroke="#4a7fb5" stroke-width="3.5" stroke-linecap="round"/>
+  <!-- rechts vom Scheitel: lang zur Seite -->
+  <g fill="none" stroke="#4a7fb5" stroke-width="3.5" stroke-linecap="round">
+    <path d="M 628 188 q 26 -14 56 -10"/>
+    <path d="M 632 197 q 28 -10 58 -4"/>
+    <path d="M 636 206 q 30 -6 60 2"/>
+  </g>
+  <path d="M 615 150 q 42 -12 84 2" fill="none" stroke="#d97a2b" stroke-width="3" marker-end="url(#pfeil)"/>
+  <text x="650" y="352" font-size="18" font-weight="bold" fill="#111111" text-anchor="middle">2 · Moderner Seitenscheitel</text>
+  <text x="650" y="376" font-size="14.5" fill="#444444" text-anchor="middle">seriös, clean, zeitlos — die Business-Option</text>
+  <text x="650" y="397" font-size="14.5" fill="#777777" text-anchor="middle">oben 5–7 cm, weiche Scheitellinie · ~2 Min.</text>
+
+  <!-- ===== 3: Seitliche Tolle (hinten links) ===== -->
+  <circle cx="230" cy="600" r="65" fill="#f7ede2" stroke="#bbbbbb" stroke-width="2"/>
+  <circle cx="208" cy="606" r="3.5" fill="#999999"/><circle cx="252" cy="606" r="3.5" fill="#999999"/>
+  <path d="M 169 578 A 65 65 0 0 1 291 578" fill="none" stroke="#4a7fb5" stroke-width="12"/>
+  <!-- vorne-links hoch, dann zur Seite -->
+  <g fill="none" stroke="#4a7fb5" stroke-width="3.5" stroke-linecap="round">
+    <path d="M 178 556 q 4 -30 26 -36"/>
+    <path d="M 196 548 q 7 -27 29 -31"/>
+    <path d="M 215 542 q 10 -23 31 -25"/>
+    <path d="M 248 538 q 15 -7 32 -3"/>
+    <path d="M 272 546 q 12 -3 22 2"/>
+  </g>
+  <path d="M 178 502 q 14 -30 52 -35" fill="none" stroke="#d97a2b" stroke-width="3" marker-end="url(#pfeil)"/>
+  <text x="230" y="702" font-size="18" font-weight="bold" fill="#111111" text-anchor="middle">3 · Seitliche Tolle (Side-swept Quiff)</text>
+  <text x="230" y="726" font-size="14.5" fill="#444444" text-anchor="middle">frisch, smart-casual — dein heutiger Stil, richtig geschnitten</text>
+  <text x="230" y="747" font-size="14.5" fill="#777777" text-anchor="middle">oben 6–8 cm, vorne hoch + zur Seite · ~3 Min.</text>
+
+  <!-- ===== 4: Locker zurückgekämmt (hinten rechts, Seitenansicht) ===== -->
+  <circle cx="650" cy="600" r="65" fill="#f7ede2" stroke="#bbbbbb" stroke-width="2"/>
+  <circle cx="682" cy="592" r="3.5" fill="#999999"/>
+  <path d="M 714 604 q 7 5 1 12" fill="none" stroke="#bbbbbb" stroke-width="2.5"/>
+  <path d="M 589 578 A 65 65 0 0 1 711 578" fill="none" stroke="#4a7fb5" stroke-width="12"/>
+  <!-- Strähnen von der Stirn nach hinten -->
+  <g fill="none" stroke="#4a7fb5" stroke-width="3.5" stroke-linecap="round">
+    <path d="M 702 558 q -26 -28 -76 -24"/>
+    <path d="M 706 568 q -32 -30 -86 -26"/>
+    <path d="M 709 578 q -38 -32 -96 -28"/>
+  </g>
+  <path d="M 714 528 q -34 -38 -104 -34" fill="none" stroke="#d97a2b" stroke-width="3" marker-end="url(#pfeil)"/>
+  <text x="650" y="702" font-size="18" font-weight="bold" fill="#111111" text-anchor="middle">4 · Locker zurückgekämmt, matt</text>
+  <text x="650" y="720" font-size="12.5" fill="#999999" text-anchor="middle">(Ansicht von der Seite)</text>
+  <text x="650" y="742" font-size="14.5" fill="#444444" text-anchor="middle">souverän, erwachsen, präsent</text>
+  <text x="650" y="763" font-size="14.5" fill="#777777" text-anchor="middle">oben 7–9 cm · ~3–4 Min. · Front ggf. erst anwachsen lassen</text>
+
+  <!-- Footer -->
+  <rect x="40" y="820" width="820" height="84" fill="#f4f7fa" rx="10"/>
+  <text x="450" y="855" font-size="16" fill="#111111" text-anchor="middle" font-weight="bold">Beim Friseur ändert sich nur ein Satz:</text>
+  <text x="450" y="882" font-size="15.5" fill="#444444" text-anchor="middle" font-style="italic">„…oben so lassen, dass ich es zur Seite und nach oben-hinten legen kann.“</text>
+</svg>

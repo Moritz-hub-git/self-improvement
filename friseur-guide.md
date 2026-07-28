@@ -77,6 +77,8 @@ Gutes Referenzfoto erkennst du an: Haar ist **glatt** und liegt in **sichtbaren 
 
 ## 3. Die Optionen im Vergleich (mit Wirkung/„Ausdruck")
 
+> **Update 28.07.:** Die Nach-vorn-Richtung (Crop) gefällt optisch nicht — Haar wird bereits seitlich/nach oben-hinten getragen und das bleibt so. **Aktuelle Empfehlung: Abschnitt 8.** Die Analyse unten bleibt als Referenz.
+
 ### Option A — Texturierter Crop *(Empfehlung: Alltags-Default)*
 Seiten kurz mit weichem Übergang (Schere/dezenter Fade), oben 4–6 cm mit geschnittener Textur, Fransen locker nach vorn/zur Seite.
 - **Ausdruck:** modern, sportlich, nahbar, „hat sein Leben im Griff". Gepflegt ohne bemüht zu wirken.
@@ -156,4 +158,45 @@ Produkte: Sea-Salt-Spray + mattes Clay/Paste (~15–20 € zusammen, Drogerie re
 
 ---
 
-*Nächster Schritt: Termin diese Woche. Referenzfotos: „textured crop men" / „loose quiff men" — 2 Bilder aussuchen, die deiner Haarlänge nahekommen.*
+## 8. Richtungs-Update (28.07.): zur Seite / nach hinten
+
+> Rückmeldung: Haar wird bereits seitlich und nach oben-hinten getragen — die Nach-vorn-Optik gefällt nicht. **Die Richtung bleibt also, der Fix passiert im Schnitt darunter** (Übergang an den Seiten, Textur/Stufung oben — Glossar in Abschnitt 2 gilt unverändert). Schaubild: [assets/friseur-optionen-seitlich.svg](assets/friseur-optionen-seitlich.svg)
+
+### Die 4 Optionen in dieser Richtung
+
+| # | Option | Deckhaar | Wirkung | Styling-Aufwand |
+|---|---|---|---|---|
+| 1 | **Ivy League** („College-Schnitt") | 3–5 cm, zur Seite gelegt | aufgeräumt, klassisch-sportlich | ~60 Sek. |
+| 2 | **Moderner Seitenscheitel** | 5–7 cm, weiche (nicht gezogene) Scheitellinie | seriös, clean, zeitlos-business | ~2 Min. |
+| 3 | **Seitliche Tolle** (Side-swept Quiff) ⭐ | 6–8 cm, vorne hoch + zur Seite | frisch, smart-casual | ~3 Min. |
+| 4 | **Locker zurückgekämmt, matt** | 7–9 cm, alles nach hinten | souverän, erwachsen, präsent | ~3–4 Min., Front ggf. anwachsen lassen |
+
+**Empfehlung: Nr. 3 (seitliche Tolle)** — das ist exakt der heutige Stil, nur mit einem Schnitt darunter, der mitspielt: gleiche Handbewegungen morgens, aber das Haar hält Volumen und fällt in Strähnen statt platt. Kleinster Schritt, größter sichtbarer Unterschied. **Nr. 2 (Seitenscheitel)** als Alternative, wenn es seriöser wirken soll; **Nr. 1**, wenn maximal pflegeleicht; **Nr. 4** als Langfrist-Option, sobald die Front 7–9 cm hat.
+
+### Angepasste Friseur-Ansage
+
+> „Seiten und Nacken kurz mit Übergang — Schere oder dezenter Fade, nicht auf null. Oben Länge lassen, vorne 6–8 cm, **sodass ich es zur Seite und nach oben-hinten legen kann**. Leichte Stufung und Textur reinschneiden, damit es Volumen hält und nicht platt anliegt. Kein strenger, gezogener Scheitel — soll locker liegen. Ich style morgens 2–3 Minuten mit mattem Clay."
+
+### Styling für die Seitwärts-/Zurück-Richtung (statt der Crop-Anleitung in Abschnitt 6)
+
+1. Handtuchtrocken, 3–4 Stöße Sea-Salt-Spray einkneten
+2. Föhnen **in die Zielrichtung** (zur Seite/nach hinten), dabei am Ansatz kurz **gegen** die Richtung föhnen — das baut den Stand auf
+3. Erbsengroß mattes Clay in den Handflächen verreiben, durchkneten, mit den Fingern (nicht Kamm) in Form legen
+
+### Foto-Galerien (Websuche 28.07.2026)
+
+- **Seitenscheitel:** [latest-hairstyles.com — 25 Side Part Haircuts](https://www.latest-hairstyles.com/mens/side-part-haircut.html) · [themodestman.com — 12 Classic Side Parts](https://www.themodestman.com/side-part-haircuts/)
+- **Ivy League:** [latest-hairstyles.com — 22 Ivy League Haircuts](https://www.latest-hairstyles.com/mens/ivy-league-haircut.html) · [menshairstylesnow.com — 15 Ivy League Haircuts](https://www.menshairstylesnow.com/ivy-league-haircut/)
+- **Zurückgekämmt:** [thefashionisto.com — 21 Slicked Back Hairstyles](https://www.thefashionisto.com/hair/slick-back-haircuts-men/) · [forteseries.com — 40 Slick Back Styles](https://forteseries.com/blogs/hairstyles/slick-back)
+- **Direkte Bildersuchen (auf glattes Haar achten!):**
+  - [Google Bilder: side swept quiff straight hair](https://www.google.com/search?udm=2&q=side+swept+quiff+men+straight+hair)
+  - [Google Bilder: modern side part straight hair](https://www.google.com/search?udm=2&q=modern+side+part+haircut+men+straight+hair)
+  - [Google Bilder: ivy league haircut](https://www.google.com/search?udm=2&q=ivy+league+haircut+straight+hair)
+  - [Google Bilder: textured slick back matte](https://www.google.com/search?udm=2&q=textured+slick+back+haircut+men+matte)
+  - [Pinterest: Side Part Männer](https://www.pinterest.com/ideas/man-side-part-haircut/957008445999/)
+
+**Auswahlkriterien fürs Referenzfoto:** glattes Haar (keine Wellen/Locken), sichtbare Strähnen statt geschlossene Fläche, vorne 5–8 cm, Seiten kurz aber nicht rasiert.
+
+---
+
+*Nächster Schritt: Termin diese Woche. 2 Referenzfotos aus den Galerien oben aussuchen (Kriterien beachten) + angepasste Ansage aus Abschnitt 8.*
