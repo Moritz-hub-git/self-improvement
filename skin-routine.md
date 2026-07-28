@@ -15,6 +15,8 @@
 
 **Interpretation (kein Befund, sondern Arbeitshypothese):** Das Muster passt zu empfindlicher, zur Rötung neigender Haut bis hin zu beginnender Rosazea-Neigung; auch reizbedingte Rötung (zu aggressive bisherige Routine) oder seborrhoische Komponente (Nasenflügel) sind möglich. Die Routine unten adressiert alle drei — die echte Differenzierung macht bei Bedarf der Hautarzt.
 
+> **Update 28.07.2026 (Rückmeldung):** Keine Schuppung → seborrhoische Komponente unwahrscheinlich, fällt aus der Hypothesenliste. Kein Brennen/Stechen → Barriere nicht akut symptomatisch, gute Verträglichkeit für Phase 2/3 zu erwarten; Rötung ist damit eher konstitutionell/vaskulär plus chronisch-reizbedingt. Gelegentlich schmerzhafte Pickel → einzelne entzündliche Papeln (siehe Protokoll in Abschnitt 4). Offen bleibt nur die Flush-Frage — die beantwortet das Trigger-Tagebuch in Abschnitt 5 objektiv.
+
 ---
 
 ## 2. Ehrliche Antwort auf „dauerhaft rausbekommen"
@@ -79,6 +81,14 @@ Sonst: **nichts**. Vier Wochen durchhalten, wöchentlich Foto (gleiches Fensterl
 - Wangen/Hals möglichst **Trimmer statt Klinge** (Stoppel-Look löst das elegant)
 - Wenn Nassrasur: nach der Dusche, scharfe Klinge, mit dem Strich, danach nur parfümfreie Creme
 - **Nie** rasieren und am selben Abend Azelainsäure/Retinal auf die rasierten Stellen
+
+### Protokoll: der schmerzhafte Pickel
+
+1. **Nicht drücken** — schmerzhaft heißt tief entzündet; Drücken drückt die Entzündung in die Tiefe und macht wochenlange rote Flecken
+2. Abends punktuell **BPO 5 %**, 1–3 Nächte
+3. Sobald er einen sichtbaren Kopf hat: **Hydrokolloid-Patch** über Nacht (schützt v. a. vor den eigenen Fingern)
+4. Langfristig senkt die **Azelainsäure** die Frequenz dieser Papeln — das ist der eigentliche Fix
+5. Immer wieder tiefe, schmerzhafte Knoten an derselben Stelle (Kiefer/Hals) → beim Hautarzt ansprechen
 
 ---
 
@@ -157,8 +167,9 @@ Optional als sofortiger optischer Ausgleich: getönter SPF (z. B. Anthelios get�
 ## 9. Offene Punkte für Feintuning
 
 - [x] ~~Liste der bisherigen Produkte~~ → erledigt 28.07.2026, siehe Abschnitt 8
-- [ ] 4 Fragen: Brennt/sticht die Haut manchmal? Flush-Episoden (Hitze/Sport/Alkohol)? Schuppung Nasenflügel/Augenbrauen? Seit wann besteht die Rötung?
-- [ ] Wie wurde BPO bisher angewendet — punktuell oder flächig? Wie oft täglich wurde das Waschgel benutzt?
+- [x] ~~Brennen/Stechen?~~ → Nein (28.07.2026). ~~Schuppung?~~ → Nein. Schmerzhafte Pickel gelegentlich → Protokoll in Abschnitt 4
+- [ ] Flush-Episoden + stärkste Trigger → wird durch das 2-Wochen-Trigger-Tagebuch beantwortet
+- [ ] Wie wurde BPO bisher angewendet — punktuell oder flächig? (bestimmt, wie viel Rötung reizbedingt war)
 - [ ] Garnier-SPF prüfen: LSF-Zahl + Öffnungsdatum (12M)
 - [ ] 1 Foto bei indirektem Tageslicht frontal + je Seite (neutraler Hintergrund)
 - [ ] Optional: Foto direkt nach dem Sport vs. morgens nüchtern (zeigt den reaktiven Anteil)
