@@ -664,6 +664,12 @@ Der Unterschied zwischen schlechtestem und bestem eigenen Foto liegt zu ~85 % in
 
 **Feedback-Signale:** Richtig = Haar folgt der Hand, Oberfläche wird glatt-glänzend, nach Kaltstufe federt es in Form zurück. Falsch = wuschelig (Luft stand gegen die Legerichtung), Kopfhaut zwickt heiß (zu nah/zu lang), nichts passiert (zu trocken gestartet).
 
+**Warm vs. kalt — die Regel: Warm formt, kalt fixiert.**
+- **Warme Luft (mittlere Stufe) = die gesamte Formphase:** trocknen, Richtung legen, Ansatz heben. Feuchtes Haar wird durch Wärme formbar und nimmt die neue Lage an.
+- **Kalte Luft = die letzten 10–15 Sekunden**, wenn die Form exakt sitzt: Beim Abkühlen „friert" das Haar in seiner Lage ein — das ist der Halt für den Tag. Ohne Kaltfinish fällt die Form mittags.
+- Kalt außerdem nützlich: als **Feuchte-Check** (fühlt sich eine Stelle unter kalter Luft kühl an, ist sie noch feucht), bei **heißer Kopfhaut** (rötungsempfindlich → einfach kalt weiterföhnen, formt auch, nur langsamer) und **im Sommer** als Abschluss gegen Nachschwitzen.
+- Nie: heißeste Stufe nah an der Kopfhaut — Rötung + strohige Spitzen.
+
 **Fehlerliste:** zu trocken gestartet · zielloses Wedeln statt einer Richtung · Föhn ohne Hand im Haar · zu heiß/zu nah (Kopfhaut-Rötung!) · Kaltstufe weggelassen · fertige Form nochmal angefasst.
 
 **Übungs-Hack:** Handy schräg vorn aufstellen und die Session filmen — 30 Sekunden Video zeigen sofort, wo die Luft falsch stand.
