@@ -647,4 +647,27 @@ Der Unterschied zwischen schlechtestem und bestem eigenen Foto liegt zu ~85 % in
 
 ---
 
-*Status: Frisur ENTSCHIEDEN & GESCHLOSSEN. Nächstes Thema: Bart (größter unbenutzter Hebel). Danach: Schlaf-Setup, Foto-Technik.*
+## 17. Föhn-Trainingsplan (ganz konkret)
+
+**Setup:** Mittlere Hitze + volle Gebläsestufe; Stylingdüse drauf, falls vorhanden. Kaltstufen-Taste vorher finden (muss meist gehalten werden). Föhn in die linke Hand (Rechtshänder), rechte Hand formt im Haar — fühlt es sich falsch an: tauschen. Abstand: eine Handbreit (~10–15 cm), Föhn zeigt schräg aufs Haar, nie senkrecht auf die Kopfhaut, immer in Bewegung.
+
+**Übungszeit:** abends nach dem Duschen (kein Zeitdruck, Ergebnis egal). Morgens erst anwenden, wenn es abends 3× geklappt hat. Pro Session max. 3–4 Minuten — klappt es nicht, abbrechen, morgen weiter.
+
+**Feuchtigkeit (häufigster Fehlerpunkt):** handtuchfeucht = tropft nicht, glänzt nicht nass, Hand nach Durchfahren leicht feucht. Zu nass → Handtuch drücken (nicht rubbeln). Zu trocken → nasse Hände 2–3× durchfahren, 30 Sek. warten.
+
+**Reihenfolge:** Wirbel/hinten zuerst (trocknet sonst in Zufallsform), dann Seiten, **Front zuletzt**. Wirbel kurz aus zwei Richtungen anföhnen, damit er sich nicht aufstellt. Scheitel einmal mit dem Kamm ziehen, danach nur Finger.
+
+**Drei Drills:**
+- **Drill 1 (Tag 1–2) — nur Richtung:** alles Deckhaar in die Seitrichtung legen, Luft strömt vom Ansatz zur Spitze in Legerichtung, Hand streicht mit. Erfolg: Oberfläche glatt, Haar bleibt nach 10 Min. liegen.
+- **Drill 2 (Tag 3–4) — plus Ansatz:** Front 2–3 Sek. von unten/gegen die Richtung anföhnen, dann drüberlegen. Erfolg: Front klebt nicht an der Stirn, Mini-Stand sichtbar.
+- **Drill 3 (ab Tag 5) — plus Finish:** Kaltstufe 10–15 Sek. in Legerichtung, 60 Sek. nicht anfassen, optional halbe Erbse Paste. Erfolg: Form hält bis mittags.
+
+**Feedback-Signale:** Richtig = Haar folgt der Hand, Oberfläche wird glatt-glänzend, nach Kaltstufe federt es in Form zurück. Falsch = wuschelig (Luft stand gegen die Legerichtung), Kopfhaut zwickt heiß (zu nah/zu lang), nichts passiert (zu trocken gestartet).
+
+**Fehlerliste:** zu trocken gestartet · zielloses Wedeln statt einer Richtung · Föhn ohne Hand im Haar · zu heiß/zu nah (Kopfhaut-Rötung!) · Kaltstufe weggelassen · fertige Form nochmal angefasst.
+
+**Übungs-Hack:** Handy schräg vorn aufstellen und die Session filmen — 30 Sekunden Video zeigen sofort, wo die Luft falsch stand.
+
+---
+
+*Status: Frisur ENTSCHIEDEN & GESCHLOSSEN, Föhn-Training läuft. Nächstes Thema: Bart (größter unbenutzter Hebel). Danach: Schlaf-Setup, Foto-Technik.*
