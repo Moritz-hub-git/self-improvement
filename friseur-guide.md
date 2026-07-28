@@ -612,4 +612,39 @@ Fotorealistisch, gleiche Qualität wie das Original. Erstelle 2 Varianten.
 
 ---
 
-*Status: Frisur final = Portrait-Blaupause (Version A), Aufwuchs-Option auf Version B eingeplant. Briefing in Abschnitt 15 ist vollständig — Termin buchen. Danach im Plan: Bart-Entscheidung, Schlaf-Setup, Foto-Technik.*
+## 16. Coaching-Schlussstrich (28.07., spät): Muster-Erkenntnis & Entscheidung
+
+### Das Muster aus 7 Runden (das ist die eigentliche Info)
+
+- Alles mit Volumen/Styling/Strähnen → „zu viel, zu gestylt, fremd, speckig"
+- Alles Flache/Natürliche/Klassische → „zu wenig, keine richtige Frisur, langweilig"
+- **Jede KI-Vorschau → „nix"** — auch die der Frisur, die auf dem echten Business-Portrait nachweislich gefällt
+
+### Die zwei Schlüsse
+
+1. **Auf der Haar-Achse existiert der gesuchte Look nicht.** „Deutlich anders + komplett natürlich + dezent + pflegeleicht + flach-seitlich" schließt sich bei feinem, hellem, glattem Haar gegenseitig aus. Das ist keine Beratungslücke, sondern Physik plus ein (guter) dezenter Geschmack. Wow-Transformationen brauchen genau die Zutaten (Höhe, Kontrast, Produkt, Strähnen), die zu Recht abgelehnt wurden.
+2. **Die KI-Vorschau ist als Entscheidungsinstrument gescheitert** (10+ Renders, 0 Treffer, inkl. real bewiesener Frisuren). Ab jetzt entscheiden nur noch: echte eigene Fotos + der Barber am echten Kopf. Gemini-Anproben für Frisuren: beendet.
+
+### Die Entscheidung (delegiert an den Coach, hiermit getroffen)
+
+**Portrait-Schnitt (Abschnitt 14/15, Version A), diese Woche, bei einem guten Barbier.** Mitgeben: das Portrait-Foto + Briefing Abschnitt 15 + einen Satz Freiheit: *„Das ist die Basis — machen Sie es an meinem Kopf ruhig einen Tick moderner, solange es dezent bleibt, kein Skin Fade, oben 4–6 cm."* Ein guter Barber löst die letzten 10 % am echten Kopf besser als jede Beratung und jede KI.
+
+**Urteils-Regeln:** Erst nach 3 Tagen Tragen und Föhn-Übung urteilen, bei Tageslicht, mit Lächeln im Spiegel — nie direkt nach dem Termin im Kunstlicht mit Neutralblick. Haar wächst 1–1,5 cm/Monat: Der erste Schnitt ist Iteration 1 von 2–3, das Risiko ist praktisch null. Die Paralyse kostet mehr als jeder „falsche" Schnitt.
+
+### Wo der Glow-Up wirklich herkommt (Beweis: die eigenen 5 Fotos)
+
+Der Unterschied zwischen schlechtestem und bestem eigenen Foto liegt zu ~85 % in: **Licht, echtem Lächeln, Hautzustand (Rötung), Bartkanten, Sommer-Farbe, Körpersprache** — und nur zu ~15 % im Haar. Das Haar ist hiermit entschieden; die Energie geht ab jetzt in die 85 %.
+
+### „Mal was anderes"-Menü mit ehrlichen Effektgrößen
+
+| Hebel | Sichtbarer Unterschied | Status |
+|---|---|---|
+| **Bart definieren** (konturierte 2–3-mm-Stoppeln, saubere Linien) | +++ — verändert das Gesicht stärker als jeder Haarschnitt | ungenutzt → **nächstes Thema** |
+| Kürzer & knackiger schneiden | ++ | via Barber-Freiheitsgrad abgedeckt |
+| Sommer-Farbe (Outdoor + SPF, natürliche Aufhellung) | + (langsam, gratis) | läuft nebenbei |
+| Haut-Routine gegen Rötung | ++ (ab Woche 4–8) | gestartet |
+| Mehr Länge / mehr Volumen | — | geprüft und verworfen |
+
+---
+
+*Status: Frisur ENTSCHIEDEN & GESCHLOSSEN. Nächstes Thema: Bart (größter unbenutzter Hebel). Danach: Schlaf-Setup, Foto-Technik.*
