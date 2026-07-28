@@ -31,6 +31,8 @@
 
 ## 3. Hautpflege-Routine
 
+> **Update 28.07.2026:** Nach Auswertung zweier zusätzlicher Nahaufnahmen komplett neu aufgesetzt mit Fokus auf dauerhafte Rötungsreduktion → Details, Phasenplan, Trigger-Tagebuch und Eskalationspfad in **[skin-routine.md](skin-routine.md)**. Die Kurzfassung unten bleibt als Überblick gültig.
+
 ### Morgens (3 Minuten)
 1. **Reinigung:** lauwarmes Wasser oder milder Cleanser (parfümfrei, z. B. CeraVe/La Roche-Posay/Drogerie-Äquivalent)
 2. **Feuchtigkeit:** leichte, parfümfreie Creme mit Ceramiden; gern mit **Niacinamid 4–5 %** (mattiert, hilft gegen Rötung)
