@@ -171,6 +171,8 @@ Notizen (Hautreaktionen, Veränderungen):
 
 ## 13. Einkaufsliste (einmalig ~60–90 €, hält Monate)
 
+> **Update 28.07.2026 nach Produkt-Audit** (siehe [skin-routine.md](skin-routine.md), Abschnitt 8): Vieles ist schon da. Wirklich fehlen nur **Azelainsäure 10 %** und ein **milder Cleanser** (~25–35 €); Garnier-SPF auf LSF-Zahl und Öffnungsdatum prüfen. Die Liste unten bleibt als Referenz.
+
 - [ ] Milder, parfümfreier Cleanser
 - [ ] Leichte Feuchtigkeitscreme mit Ceramiden/Niacinamid
 - [ ] Sonnenschutz-Fluid LSF 50 (Gesicht, nicht fettend)

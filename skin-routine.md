@@ -120,10 +120,46 @@ Optional als sofortiger optischer Ausgleich: getönter SPF (z. B. Anthelios get�
 
 ---
 
-## 8. Offene Punkte für Feintuning
+## 8. Produkt-Audit der bisherigen Routine (28.07.2026)
 
-- [ ] Liste der bisherigen Produkte (Name + INCI oder Foto der Rückseite) → Einsortierung behalten/ersetzen/weg
+> **Kern-Erkenntnis:** Die bisherige Routine ist eine **Anti-Akne-Routine für ölige, robuste Haut** (Salizyl-Waschgel + BPO + 10 % Niacinamid). Das Hauptthema ist aber **Rötung bei empfindlicher Haut** mit nur vereinzelten Pickeln. Ein Teil der Rötung ist damit sehr wahrscheinlich reizbedingt/selbstgemacht — gute Nachricht, denn dieser Anteil verschwindet in 2–4 Wochen nach Umstellung.
+
+| Produkt | Urteil | Begründung / neue Verwendung |
+|---|---|---|
+| **Balea hautrein Anti-Pickel Waschgel** (Salizylsäure + Zink, ölfrei) | ❌ **Weg** | Aggressives Anti-Akne-Tensidsystem — Hauptverdächtiger für den reizbedingten Rötungsanteil. Ersetzen durch milden, nicht schäumenden Cleanser |
+| **Cordes BPO 5 %** | ⚠️ **Behalten, nur punktuell** | Ausschließlich auf einzelne Pickel über Nacht. **Nie flächig** — flächiges BPO ist ein klassischer Rötungstreiber. Falls bisher flächig verwendet: sofort stoppen |
+| **Balea Niacinamide Serum (10 %)** | ⚠️ **Pausieren** | 10 % ist für empfindliche Haut oft zu hoch dosiert (Brennen/Wärmegefühl). Phase 1: Pause. Ab Phase 2 optional morgens dünn, nur wenn kein Brennen/Jucken |
+| **Balea med Ultra Sensitive Tagescreme** (parfümfrei, DAAB-Siegel) | ✅ **Behalten** | Wird die Standard-Creme: morgens unter SPF + abends. Passt exakt zum Bedarf |
+| **Garnier Sonnenschutz-Fluid (40 ml)** | ✅ **Behalten, 2 Punkte prüfen** | 1) Gesichts-Fluid mit LSF 50? 2) Geöffnet vor > 12 Monaten (12M-Symbol)? Dann ersetzen. Täglich morgens, 2 Fingerlängen fürs Gesicht |
+| **The Ordinary Retinol 0.2 % in Squalane** | ⏸️ **Pausieren bis Phase 3** | Ab Woche 6–8: 2×/Woche abends als Retinoid-Einstieg (spart den Retinal-Neukauf). Nie am Azelain-Abend |
+
+**Es fehlen nur 2 Käufe (~25–35 €):**
+1. **Azelainsäure 10 %** — der Kern-Wirkstoff gegen die Rötung, bisher gar nicht im Arsenal (The Ordinary Azelaic Acid Suspension 10 % oder Geek & Gorgeous aPAD)
+2. **Milder Cleanser** — Ersatz fürs Anti-Pickel-Waschgel (Budget-Option bei dm: Balea med Ultra Sensitive Waschlotion; sonst CeraVe Hydrating Cleanser / La Roche-Posay Toleriane)
+
+### Deine konkrete Routine mit deinen Produkten
+
+**Phase 1 (Woche 1–4):**
+- Morgens: lauwarmes Wasser → Balea med Tagescreme → Garnier SPF (2 Fingerlängen)
+- Abends: neuer milder Cleanser → Balea med Tagescreme
+- Bei einzelnem Pickel: abends punktuell Cordes BPO, am nächsten Morgen gut eincremen
+- Niacinamid-Serum und Retinol: **Pause**
+
+**Phase 2 (ab Woche 3–5):**
+- Abends nach dem Cleanser: **Azelainsäure 10 %**, jeden 2. Abend → nach 2 Wochen täglich, danach Creme
+- Optional morgens: Niacinamid-Serum dünn (nur wenn kein Brennen)
+
+**Phase 3 (ab Woche 6–8, nur bei ruhiger Haut):**
+- The Ordinary Retinol 0.2 %: 2×/Woche abends statt Azelainsäure an dem Abend, bei Bedarf im Creme-Sandwich
+
+---
+
+## 9. Offene Punkte für Feintuning
+
+- [x] ~~Liste der bisherigen Produkte~~ → erledigt 28.07.2026, siehe Abschnitt 8
 - [ ] 4 Fragen: Brennt/sticht die Haut manchmal? Flush-Episoden (Hitze/Sport/Alkohol)? Schuppung Nasenflügel/Augenbrauen? Seit wann besteht die Rötung?
+- [ ] Wie wurde BPO bisher angewendet — punktuell oder flächig? Wie oft täglich wurde das Waschgel benutzt?
+- [ ] Garnier-SPF prüfen: LSF-Zahl + Öffnungsdatum (12M)
 - [ ] 1 Foto bei indirektem Tageslicht frontal + je Seite (neutraler Hintergrund)
 - [ ] Optional: Foto direkt nach dem Sport vs. morgens nüchtern (zeigt den reaktiven Anteil)
 
