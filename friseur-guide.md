@@ -261,4 +261,37 @@ Module (EN): 1) `Ivy League cut: short tapered sides (no bare skin), top 3–5 c
 
 ---
 
-*Nächster Schritt: KI-Anprobe mit den Prompts oben → Lieblings-Style wählen → Termin mit Ansage aus Abschnitt 8 + 1 Galeriefoto + 1 KI-Bild.*
+## 10. Kurskorrektur nach der KI-Anprobe (28.07.) — das finale Zielbild
+
+> Vier KI-Anproben (spiky hoch, Volumen-Pompadour ×2, Quiff) bewertet: **zu hoch, zu gestylt, Strähnen wirken speckig, Gesamtbild fremd.** Rückfragen ergaben: dezent gestylt, Föhn + wenig Produkt okay, Länge = „was besser aussieht".
+
+### Warum die Model-Looks an diesem Haar nicht funktionieren (3 Erkenntnisse)
+
+1. **Feines, helles Haar verträgt keine Produkt-Strähnen.** Bei dunklem, dickem Haar wirkt Strähnentrennung grafisch-markant. Bei feinem hellem Haar sieht man zwischen den Strähnen die Kopfhaut, und die Strähnen selbst wirken fettig („speckig"). → Volumen muss aus dem **Föhn** kommen (Luft im Haar), die Oberfläche bleibt **weich und geschlossen**, Finish halbmatt.
+2. **Höhe streckt das Gesicht.** Die ovale bis leicht längliche Gesichtsform verträgt keine 5–7 cm aufgetürmte Tolle (die Models auf den Referenzen haben breitere Gesichter + dunkle Vollbärte als Gegengewicht). → **Niedriger Lift: 2–3 cm am Ansatz**, Richtung diagonal zur Seite/nach hinten statt senkrecht hoch.
+3. **Identität schlägt Mode.** Der bisherige Stil (seitlich/nach hinten, unauffällig) ist die richtige Basis — er war nur nie richtig geschnitten und nie geföhnt. Ziel ist „dein Stil, 20 % besser", nicht ein fremder Kopf.
+
+### Das definierte Ziel: **Niedrige, weiche Seitentolle**
+
+- Deckhaar **5–7 cm** (Längenfrage entschieden: sieht an dieser Gesichtsform am besten aus, sofort umsetzbar, kein Wachstumsprojekt)
+- Seiten kurz mit **weichem Übergang, nicht zu knapp** (keine nackte Haut, kein Barbershop-Kontrast)
+- Vorne **2–3 cm Föhn-Lift**, Richtung Seite/hinten, Oberfläche weich geschlossen, halbmatt
+- Entspricht Referenzbild 3 (Business-natürlich) mit einem Tick mehr Front-Lift
+
+### Finale Friseur-Ansage
+
+> „Klassischer Herrenschnitt mit weichem Übergang an den Seiten — Schere oder mittlerer Maschinenaufsatz, nicht zu kurz, keine nackte Haut. Oben 5–7 cm mit leichter Stufung und etwas Textur, sodass ich es zur Seite und nach hinten föhnen kann und es weich fällt. Insgesamt natürlich und dezent — kein Fade-Kontrast, keine sichtbaren Styling-Strähnen."
+
+### Styling & Produkt-Update (ersetzt Clay!)
+
+- **Föhn-Routine (2–3 Min.):** Haar handtuchtrocken oder morgens leicht anfeuchten → mit den Fingern zur Seite/nach hinten föhnen, am Ansatz vorne 10 Sekunden **gegen** die Richtung → zum Schluss kalt nachföhnen (fixiert)
+- **Produkt für feines helles Haar: Volumenpuder** (z. B. got2b Puder) sparsam am Ansatz **oder** eine erbsengroße Menge **leichte matte Paste** in den Längen — kein Clay in Strähnen kneten, kein Gel, kein Wachs-Glanz
+- **Föhn-Test ohne Friseur:** Die Ziel-Form lässt sich mit der aktuellen Länge schon heute im Spiegel testen (realer als jede KI)
+
+### Neue Gemini-Prompts (Runde 3 — Anti-Höhe, Anti-Strähnen, Anti-Fremdheit)
+
+Alle drei komplett in Abschnitt 9 dokumentierten Regeln plus neu: „Das Gesicht muss zu 100 % identisch bleiben, keine Beauty-Retusche" und explizite Verbote (keine hohe Tolle, keine Strähnen, kein Glanz).
+
+---
+
+*Nächster Schritt: Föhn-Test zu Hause → Gemini-Runde 3 mit den Anti-Höhe-Prompts → Termin mit der finalen Ansage aus Abschnitt 10 + Referenzbild 3.*
