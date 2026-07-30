@@ -687,6 +687,20 @@ Der Unterschied zwischen schlechtestem und bestem eigenen Foto liegt zu ~85 % in
 
 **Minimal-Setup:** Föhn + Puder (Alltag) und Paste (Anlässe) — zusammen unter 10 € in der Drogerie.
 
+### Wäsche & Conditioner (kurzes, feines Haar)
+
+**Ehrlich zuerst:** Bei 4–6 cm Länge ist Conditioner **optional** — das Haar ist nur wenige Monate alt, kaum strapaziert, und Spülung ist eigentlich für Längen und Spitzen gedacht. Der größere Hebel ist das **Shampoo**. Falsch gewählter Conditioner ist sogar schädlich fürs Ziel: Er beschwert feines Haar und macht es platt — genau das Problem, das der ganze Schnitt löst.
+
+| Slot | Empfehlung | Anwendung |
+|---|---|---|
+| **Shampoo** | mild, ohne Silikone, gern „Volumen"/„feines Haar"; parfumarm (Balea Volumen, alverde, Guhl Volumen) | 2–3×/Woche, nur Kopfhaut einmassieren, Rest spült beim Ausspülen mit |
+| **Conditioner** *(optional)* | **leichte Volumen-/Feines-Haar-Spülung** (Balea Volumen Spülung ~1 € · alverde Volumen) | **erbsengroß, nur Deckhaar-Längen und Spitzen, NIE Kopfhaut/Ansatz**, 30 Sek. einwirken, gründlich ausspülen |
+| **Alternative** | **Leave-in-Spray-Conditioner** | 1–2 Stöße ins handtuchfeuchte Haar vor dem Föhnen — leichter als jede Spülung, keine Beschwerung, ersetzt gleichzeitig Salzspray |
+
+**Nicht kaufen:** Repair-/Intensiv-/Öl-Kuren, Haarmasken, „Nährendes Öl", schwere Keratin-Produkte — alles Gewicht = platt.
+
+**Duschregel gegen Pickel an Brust/Rücken:** Haare **zuerst** waschen und ausspülen, **danach** Körper waschen (oder beim Ausspülen nach vorn beugen). Conditioner-Rückstände auf Brust/Dekolleté und Rücken sind eine häufige, gut dokumentierte Ursache für Unreinheiten genau dort — im Ausgangsfoto vom 28.07. am Dekolleté sichtbar. Kostet nichts, wirkt oft in 2–3 Wochen.
+
 ---
 
 ## 18. Selbst entdeckt (28.07., Bad-Session): Die niedrige seitliche Tolle — bestätigt
