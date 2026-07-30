@@ -12,9 +12,20 @@
 - [ ] **Matte Stylingpaste, leichter–mittlerer Halt** (z. B. got2b matte Paste; Kriterien auf der Dose: „matt", „Paste/Cream") (~5 €)
 - [ ] *Optional:* got2b Meersalz-Spray (~5 €)
 
-## Vorher zu Hause checken
+## Sonnencreme — Entscheidung am Regal (28.07.)
 
-- [ ] **Garnier-Sonnencreme:** Steht „LSF 50" und „Gesicht" drauf? Länger als 12 Monate offen (12M-Symbol)? → Falls nein/zu alt: **Gesichts-Sonnenfluid LSF 50** mitkaufen (dm-Budget: Sundance Gesicht LSF 50; Upgrade aus der Apotheke: La Roche-Posay Anthelios Oil Control)
+**Erste Wahl: Garnier Ambre Solaire Super UV Niacinamid Anti-Unreinheiten LSF 50** (~12,45 €, oranges Regal Mitte-rechts)
+→ Gesichtsfluid, leicht, LSF 50, mit Niacinamid: wirkt gegen Rötung **und** Unreinheiten — deckt genau beide Themen ab und passt exakt zur Routine.
+
+**Budget-Alternative: Sundance Sonnenfluid / Protect+ LSF 50** (~4,95–5,95 €, dm-Eigenmarke, mittlere Spalte unten) — solide, wenn's günstig sein soll.
+
+**Optionaler Bonus für Rötungstage: Nivea Sun UV Gesicht Mattierend Getönt LSF 50** (~10,45 €) — mattiert den T-Zonen-Glanz und neutralisiert Rot optisch sofort. Reine Kosmetik, keine Therapie — nice-to-have, kein Muss.
+
+**Nicht nehmen:** alle Nivea-Sun-Körperflaschen (linke Wand, zu fettig fürs Gesicht) · alles mit „Bräune/Bronze/Tanning" (rechte Wand) · Bioré UV Aqua Rich (Alkohol weit vorn in der INCI → reizt rötungsbereite Haut).
+
+**Regel für Alternativen:** vorne muss „Gesicht" + „LSF 50" stehen; auf der Rückseite „Alcohol Denat." nicht unter den ersten Zutaten; Textur Fluid/Gel statt Creme.
+
+- [ ] Zu Hause: **alte Garnier-Sonnencreme prüfen** (LSF-Zahl? 12M-Symbol abgelaufen?) → wenn zu alt oder Körperprodukt: entsorgen
 
 ## NICHT kaufen (bewusst)
 
