@@ -2,7 +2,8 @@
 
 ## Haut (~10–15 €)
 
-- [ ] **Balea med Ultra Sensitive Waschlotion** — der milde Cleanser, ersetzt das Anti-Pickel-Waschgel (~4 €)
+- [ ] **Balea med Ultra Sensitive WASCHLOTION** (nicht Waschgel!) — der milde Cleanser, ersetzt das Anti-Pickel-Waschgel (~4 €)
+  → **Waschlotion = cremig, schäumt kaum, reinigt ohne zu entfetten.** Waschgel schäumt und entfettet — genau das Prinzip des alten Produkts, das die Rötung mitverursacht hat. Faustregel: Bei Rötungsneigung immer die nicht schäumende Variante.
 - [ ] **Pickel-Patches (Hydrokolloid)** — fürs Schmerz-Pickel-Protokoll (~3 €)
 - [ ] **Azelainsäure 10 %:** The Ordinary Azelaic Acid Suspension 10 % — bei dm nur in Filialen mit The-Ordinary-Regal bzw. auf dm.de; sonst online bestellen (Geek & Gorgeous aPAD). **Wichtigster Kauf der ganzen Liste — notfalls heute Abend online.** (~10–12 €)
 
@@ -17,7 +18,10 @@
 **Erste Wahl: Garnier Ambre Solaire Super UV Niacinamid Anti-Unreinheiten LSF 50** (~12,45 €, oranges Regal Mitte-rechts)
 → Gesichtsfluid, leicht, LSF 50, mit Niacinamid: wirkt gegen Rötung **und** Unreinheiten — deckt genau beide Themen ab und passt exakt zur Routine.
 
-**Budget-Alternative: Sundance Sonnenfluid / Protect+ LSF 50** (~4,95–5,95 €, dm-Eigenmarke, mittlere Spalte unten) — solide, wenn's günstig sein soll.
+**Beste dm-Eigenmarke (Regalfoto 28.07.): Sundance CALM SKIN+ Sonnenschutzserum LSF 50+** (~6 €, rosé Schachtel, Aufdruck „ROSA CARE COMPLEX")
+→ Genau für rötungsbereite Haut formuliert — die Eigenmarken-Variante, die am besten zum Befund passt. Gleichwertige Wahl zur Garnier, deutlich günstiger.
+Weitere brauchbare Sundance-Varianten: **Oil Control Fluid LSF 50** (mattierend, für die T-Zone) · **Sensitiv Fluid LSF 50** (günstigste Basis, ~3–5 €).
+Nicht nötig: Vitamin C · Anti Dark Spot+ · Hydro+ · Moisture Lift+ (After Sun).
 
 **Optionaler Bonus für Rötungstage: Nivea Sun UV Gesicht Mattierend Getönt LSF 50** (~10,45 €) — mattiert den T-Zonen-Glanz und neutralisiert Rot optisch sofort. Reine Kosmetik, keine Therapie — nice-to-have, kein Muss.
 
